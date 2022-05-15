@@ -39,5 +39,299 @@
         "company": "Kingpin",
         "style": "triple new england ipa",
         "imgHash": "1Csxh7AXLR9bAwrDaMzYIXWsq9lXZxqDI"
+    },
+
+    {
+        "name": "Mars",
+        "company": "Nepomucen",
+        "style": "raspberry strawberry & vanilla triple hazy ipa",
+        "imgHash": "1zc-mCK5OhlM52y_cxMI9s7kmc6qK_cBQ"
+    },
+
+    {
+        "name": "Słuszna koncepcja",
+        "company": "Zakładowy",
+        "style": "triple black ipa",
+        "imgHash": "19bDCtuTU9BBYcZgdfia-LDLIzuQBCICw"
+    },
+
+    {
+        "name": "Freaky",
+        "company": "Funky fluid",
+        "style": "neipa",
+        "imgHash": "1XW0vGLRd3ZQ2dAha0kJvZHacVC-JH6z1"
+    },
+
+    {
+        "name": "Twice as nice",
+        "company": "Funky fluid",
+        "style": "double ipa",
+        "imgHash": "1OCmcdZF0Nzu56mOIdlF7xKNnJGAyWKe7"
+    },
+
+    {
+        "name": "Mate",
+        "company": "Funky fluid",
+        "style": "oceanic hazy ipa",
+        "imgHash": "13pGHuTzZQcSkZ8tNKAMzPwnZ4y1ZH2O_"
+    },
+
+    {
+        "name": "Triple Falconer's flight",
+        "company": "Funky fluid",
+        "style": "single hop triple neipa",
+        "imgHash": "1ghjbBxh4qNyitJj9Wh8iFL6iYuVfrdc7"
+    },
+
+    {
+        "name": "It was a good day",
+        "company": "Funky fluid",
+        "style": "west coast ipa",
+        "imgHash": "1myGnR5fOcbo9xEyxfmxZWXvvhlzhoLc1"
+    },
+
+    {
+        "name": "Let me ride",
+        "company": "Funky fluid",
+        "style": "west coast ipa",
+        "imgHash": "1eChq9kfiUto1icEVSMV4HBYTqfqfoG2N"
+    },
+
+    {
+        "name": "Sundae peach melba",
+        "company": "Nook",
+        "style": "peach, apricot, raspberry & vanilla pastry sour",
+        "imgHash": "1S9427r2E7vI7dZSDwHAUYZgfntfgMaD7"
+    },
+
+    {
+        "name": "No to war! Kyiv",
+        "company": "Pinta & Rebrew",
+        "style": "ddh ipa",
+        "imgHash": "1QEBsvhNID6YYMENEWmD8bfo11iT5TgQb"
+    },
+    
+    {
+        "name": "Pinta of the month January 2021 The Bruce Story",
+        "company": "Pinta",
+        "style": "new zealand ddh ipa",
+        "imgHash": "1W82fuhW7-1jC0kTRNxmbhLzKdvVMV3uo"
+    },
+
+    {
+        "name": "Berliner weisse Strawberry",
+        "company": "Stu mostów",
+        "style": "berliner weisse",
+        "imgHash": "1lpq6yJOZZV5skx9VmS4Q0W5g2mGlzMxV"
+    },
+
+    {
+        "name": "Sundae banana split #3",
+        "company": "Nook",
+        "style": "banana, cherry & vanilla pastry sour",
+        "imgHash": "1qDWGFGuSiAeuAVhScBEkDA9fMLM7Ldjn"
+    },
+
+    {
+        "name": "Psst... It's your friday IPA",
+        "company": "Pinta",
+        "style": "ddh ipa",
+        "imgHash": "1Iqf11Z-_y33YIvsFCD4eB4m0ZfmOcrQU"
+    },
+
+    {
+        "name": "kwas tau",
+        "company": "Pinta",
+        "style": "cherry sour ale",
+        "imgHash": "1UxqTczVP8HEeSan4J4I9qqEPnutlGuNU"
+    },
+
+    {
+        "name": "Psst... It's your Saturday IPA",
+        "company": "Pinta",
+        "style": "ddh ipa",
+        "imgHash": "12wzhc4Cxk-e1oMWcpPIif_p-C7GlSw0e"
+    },
+
+    {
+        "name": "Lark",
+        "company": "Nepomucen",
+        "style": "hazy apa",
+        "imgHash": "1bp0bJA0xszOQ8THzO7kYKNzuu52lSroW"
+    },
+
+    {
+        "name": "Sowie",
+        "company": "Wielka sowa",
+        "style": "weisen",
+        "imgHash": "1CyqfzE_EU9wDgs-0Rd9rny1bLHgHiIXN"
+    },
+
+    {
+        "name": "Rock the Microphpne",
+        "company": "Magic road",
+        "style": "triple ipa",
+        "imgHash": "15BObLSev_9UqjsOEqobFMSudIVfjD1CB"
+    },
+
+    {
+        "name": "Whispers",
+        "company": "Magic road",
+        "style": "new england ipa",
+        "imgHash": "1saLozqVNYuNgNZSrjD8GEMcN_Xzb0Ph2"
+    },
+
+    {
+        "name": "Just a Dream",
+        "company": "Magic road",
+        "style": "new england ipa",
+        "imgHash": "1IR11m72VTYLR4LOskbzig_o5dd-W_1_-"
+    },
+
+    {
+        "name": "Tango milonga",
+        "company": "Sady",
+        "style": "hazy ipa",
+        "imgHash": "1_4dPFEIpqsdWhWwgw8ocL4iJ9-l6WJj1"
+    },
+
+    {
+        "name": "Be careful",
+        "company": "Nepomucen",
+        "style": "imperial juicy sour",
+        "imgHash": "1b2NUlmpzzFsep5RJKrVpjhMOeFGvRZM"
+    },
+
+    {
+        "name": "Lily 'Orange Moon'",
+        "company": "Madame barrel",
+        "style": "ddh citrus hazy dipa",
+        "imgHash": "1LcqGM9exsVKOvgdXvryEsjrh7nzB8iMO"
+    },
+
+    {
+        "name": "Sabro",
+        "company": "Nepomucen",
+        "style": "modern new england ipa",
+        "imgHash": "1xFXhZ4zFyFdjli0Ig-mtNU-AhI3OfF-q"
+    },
+
+    {
+        "name": "DDH Uncle from Warsaw",
+        "company": "Zakładowy & Funky fluid",
+        "style": "double dry hopped new england ipa",
+        "imgHash": "1wE9W1C9hDnFsf1FrZgPzkmQojgb633-u"
+    },
+
+    {
+        "name": "Crazy",
+        "company": "Funky fluid",
+        "style": "hazy ipa",
+        "imgHash": "1K7Px42mK8evlJ7l4kxfkWdOExJLq5VJx"
+    },
+
+    {
+        "name": "bawarka",
+        "company": "Pinda",
+        "style": "hefeweizen",
+        "imgHash": "1NXwnlGEutYg7hHHVc0DX4sqUloBDCQo-"
+    },
+
+    {
+        "name": "Baltic Pina Colada",
+        "company": "Nook",
+        "style": "imperial baltic porter coconut & pinaple",
+        "imgHash": "1uiSA0XCVdJ0tTaQ79Iw9IXt46h38gil7"
+    },
+
+    {
+        "name": "Tropical",
+        "company": "Wrężel",
+        "style": "tropical imperial ipa",
+        "imgHash": "1nmeiM6EcCjGXVApKcyano8NUCU_3fe4f"
+    },
+
+    {
+        "name": "Square dance",
+        "company": "Funky fluid",
+        "style": "saison",
+        "imgHash": "1UrlNUKu-CK4998pEBVR37IbzO9q7lYm3"
+    },
+
+    {
+        "name": "Triple citra",
+        "company": "Funky fluid",
+        "style": "single hop triple neipa",
+        "imgHash": "1FZH586GFavpM391nYGrugMpZ9iifH8QK"
+    },
+
+    {
+        "name": "Bałwan",
+        "company": "Artezan",
+        "style": "pale ale",
+        "imgHash": "1cyZ89-B-WTIfqnYjpitODomBybYkFJTa"
+    },
+
+    {
+        "name": "Everyday",
+        "company": "Funky fluid",
+        "style": "hazy ipa",
+        "imgHash": "1c00eIb_VBj9EhgzlDacV_kSpSPdOiX3k"
+    },
+
+    {
+        "name": "Sweat scream",
+        "company": "Funky fluid & Michał Bryś",
+        "style": "double milkshake ipa",
+        "imgHash": "1f6mtewY-5XiBT77Q6ieSRHioiPEDAjvZ"
+    },
+
+    {
+        "name": "Gelato",
+        "company": "Funky fluid",
+        "style": "ice cream sour passion fruit mango & peach",
+        "imgHash": "1ctZGTxyJYaYceHVkq13Sp8COOlOafpH5"
+    },
+
+    {
+        "name": "Heat",
+        "company": "Nepomucen",
+        "style": "passion fruit ddh imperial sour ipa",
+        "imgHash": "1-p85QmXUN75wgbgLAGkVTGU2JQL5OPKg"
+    },
+
+    {
+        "name": "Kazuar chichotliwy",
+        "company": "Harpagan",
+        "style": "ddh hazy ipa",
+        "imgHash": "1Bc5r6ANiP66jaVZiwAPVo1eijIr3O8xG"
+    },
+
+    {
+        "name": "Tropical hurricane",
+        "company": "Nepomucen",
+        "style": "imperial gose: guava mango calamansi passion fruit lime",
+        "imgHash": "1v96SzmtLE06uJXEN9IYkpwa91gEFYECW"
+    },
+
+    {
+        "name": "Gelato",
+        "company": "Funky fluid",
+        "style": "pink guava, passion fruit & peach",
+        "imgHash": "1C_s0WjdIPuE2FrMEk9Ty944Vnk8sU7iI"
+    },
+
+    {
+        "name": "Squawk",
+        "company": "Nepomucen",
+        "style": "double ipa",
+        "imgHash": "13k0aPEPmBwGiwvH4LsE2TAEaJktoyOCr"
+    },
+
+    {
+        "name": "Wheat IPA",
+        "company": "Bury",
+        "style": "wheat ipa",
+        "imgHash": "1b-Ca5KZGe_AarwfR0_U_FCz8XQrvPLej"
     }
 ]

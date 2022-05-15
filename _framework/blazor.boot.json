@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BeersBlazor.dll": "sha256-q6gWO+EaGMB9mvLf6frisFaCS1n0ZwY8oqw\/pUF7LRs=",
+      "BeersBlazor.dll": "sha256-kYwee\/WYuOVanFZlG6aCDiqMHUxNqEQezHQlVEGL8ds=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Kvs9\/xgpoDtSmhMcZ11n6UkNB06WFGgu1DYxFgXJS10=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-KdneSdSeGbAvAFUmcD2ccUlXr8gH4rj8HIQ3eLZcW5s=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-3ywjkTd6IEqBaMPg\/9ws4P3BshR0yjs3PyBLUoye8uE=",
@@ -51,7 +51,7 @@
       "System.Runtime.Numerics.dll": "sha256-aNxwXvaZGwu9dS3ul7KfnNLnpCoFwXci2wibEClTaIM=",
       "System.Text.Encodings.Web.dll": "sha256-mDLqr22Vvt\/OHLYNUEvjCYsBc3ARNnBAa+K2btIYh+c=",
       "System.Text.Json.dll": "sha256-BqoS4mSHo2lEjybgWzU14FrCpo5GDjEYElGnDvwARtk=",
-      "System.Text.RegularExpressions.dll": "sha256-xHQRvBFrF7wOjTChIJDE\/lM0js8XMZPtQ+cmiIpdzco=",
+      "System.Text.RegularExpressions.dll": "sha256-b686EmHxvaR\/UtrTsj1JRzYjr9nBXziS9t4co67PKrg=",
       "System.Threading.dll": "sha256-yeVu6OLAsZdwfBWNiwLaSmAv5ZV+21CH5lin6qErc\/0="
     },
     "extensions": null,
