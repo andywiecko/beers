@@ -1,0 +1,81 @@
+﻿@page "/"
+@using System.Text.RegularExpressions
+@inject HttpClient Http
+@inject IDialogService DialogService
+
+<PageTitle>andywiecko beers labels collection</PageTitle>
+
+<MudTextField @bind-Value="Input" T="string" Variant="Variant.Outlined" Class="mb-16"></MudTextField>
+
+
+@if (beersData == null)
+{
+    <MudProgressCircular Color="Color.Default" Indeterminate="true" />
+}
+else
+{
+
+    <MudGrid Spacing="2" Justify="Justify.Center">
+
+    @foreach(var b in beersData.Where(i => regex.IsMatch(i.ToString())))
+    {
+        var hash = b.ImgHash;
+        var src = $"beers-data/thumbnails/{hash}.jpg";
+        var dialogSrc = GoogleDrivePath(hash);
+        var alt = $"Missing thumbnail for {b.Name}";
+        <MudItem>
+        <MudTooltip Text=@b.Name>
+            <MudButton OnClick="@(() => OpenDialog(dialogSrc, b))">
+                <MudImage Src=@src Width="200" Alt=@alt Elevation="25" Class="rounded-lg"/>
+            </MudButton>
+        </MudTooltip>
+        </MudItem>
+    }
+
+    </MudGrid>
+}
+
+@code {
+    public static string GoogleDrivePath(string hash) =>  $"https://drive.google.com/uc?export=view&id={hash}";
+
+    public string? SelectedImgHash { get; set; }
+    public string Text { get; set; } = "";
+    public string Input { get; set; } = "";
+
+    public Regex regex => new(Input);
+
+    private BeerData[]? beersData;
+
+    private void OpenDialog(string src, BeerData beerData)
+    {
+		var options = new DialogOptions { CloseOnEscapeKey = true, FullWidth = true, MaxWidth = MaxWidth.Large };
+        var parameters = new DialogParameters();
+        parameters.Add("Src", src);
+        parameters.Add("BeerData", beerData);
+        DialogService.Show<Dialog>(beerData.Name, parameters, options);
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        beersData = await Http.GetFromJsonAsync<BeerData[]>("beers-data/beers.json");
+        beersData = beersData.OrderBy(i => i.Company).ThenBy(i => i.Name).ToArray();
+    }
+
+    public class BeerData
+    {
+        public string? Name { get; set; }
+        public string? Company { get; set; }
+        public string? Style { get; set; }
+        public string? ImgHash { get; set; }
+        public string? Description { get; set; }
+
+        public override string ToString() => 
+            $"{nameof(Name)}:{Name} | " + 
+            $"{nameof(Company)}:{Company} | " +
+            $"{nameof(Style)}:{Style} | " +
+            $"{nameof(ImgHash)}:{ImgHash} | " +
+            $"{nameof(Description)}:{Description} | " +
+        "";
+    }
+}
+

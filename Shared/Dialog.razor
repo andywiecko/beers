@@ -1,0 +1,37 @@
+@using static Pages.Index
+
+<MudDialog DisableSidePadding="true">
+    <DialogContent>
+
+    <MudContainer Style="max-height: 900px; overflow-y: scroll">
+    <MudGrid Spacing="2" Justify="Justify.Center">
+        <MudItem Class="d-inline-flex">
+        <MudList Style="max-width: 500px">
+            <MudListItem> Name: @BeerData.Name </MudListItem>
+            <MudListItem> Company: @BeerData.Company </MudListItem>
+            <MudListItem> Style: @BeerData.Style </MudListItem>
+@if (BeerData.Description != null)
+{
+            <MudListItem> Description: @BeerData.Description </MudListItem>
+}
+
+        </MudList>
+        </MudItem>
+        <MudItem Class="d-inline-flex">
+            <MudImage Src=@Src Width="900" Alt="Mony the dog" Elevation="25" Class="rounded-lg"/>
+        </MudItem>
+    </MudGrid>
+    </MudContainer>
+
+    </DialogContent>
+    <DialogActions>
+        <MudButton Color="Color.Primary" OnClick="Submit">Ok</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+    [Parameter] public string Src { get; set; }
+    [Parameter] public BeerData BeerData {get; set; }
+    void Submit() => MudDialog.Close(DialogResult.Ok(true));
+}
