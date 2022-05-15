@@ -42,7 +42,7 @@ else
     public string Text { get; set; } = "";
     public string Input { get; set; } = "";
 
-    public Regex regex => new(Input);
+    public Regex regex => new(Input, RegexOptions.IgnoreCase);
 
     private BeerData[]? beersData;
 
