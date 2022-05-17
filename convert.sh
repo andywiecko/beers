@@ -2,5 +2,5 @@
 
 for i in *.jpg
 do
-        convert $i -quality 25 -resize 200x thumbnails/$i
+        convert $i -quality 50 -resize 300x thumbnails/$i
 done
