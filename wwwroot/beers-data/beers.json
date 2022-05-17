@@ -333,5 +333,453 @@
         "company": "Bury",
         "style": "wheat ipa",
         "imgHash": "1b-Ca5KZGe_AarwfR0_U_FCz8XQrvPLej"
+    },
+
+    {
+        "name": "Strong Beliefs",
+        "company": "Magic road",
+        "style": "ddh dipa",
+        "imgHash": "1MrbvFC3_l6YFzD3LUrdLM8X7dDnQET9p"
+    },
+
+    {
+        "name": "Wet hop IPA",
+        "company": "Pinta",
+        "style": "wet hop ipa",
+        "imgHash": "1OEG-s6PHey4wXcFz3rTfjxetn100gG97"
+    },
+
+    {
+        "name": "Hopfen-Weisse",
+        "company": "Funky fluid",
+        "style": "hoppy weizen",
+        "imgHash": "1Et7XB-XvcbhczJppkGtIahzyyZdsVxFU"
+    },
+
+    {
+        "name": "American wheat",
+        "company": "Spółdzielczy",
+        "style": "american wheat",
+        "imgHash": "1WBvydEhNWGHzVjSgKLMFqytKU9iRiAC3"
+    },
+
+    {
+        "name": "Magic spoon",
+        "company": "Minister",
+        "style": "weizen",
+        "imgHash": "1PEwFOKxgKESthZNTFx3ZNeWaJDvm9MBZ"
+    },
+
+    {
+        "name": "Achtung",
+        "company": "Funky fluid",
+        "style": "sabro new england ipa",
+        "imgHash": "1XJCCiZWe7DbY4fnvaca9mFenCpa_wz1Y"
+    },
+
+    {
+        "name": "Toyboy",
+        "company": "Birbant",
+        "style": "el dorado & idaho 7 juicy ipa",
+        "imgHash": "17KUmc378h2kJbvVHKsTEERGEIYSKpBlQ"
+    },
+
+    {
+        "name": "Triple mosaic",
+        "company": "Funky fluid",
+        "style": "single hop triple neipa",
+        "imgHash": "13SbS8mLb9wOOl60KrkV0AWXIwu3BAP4T"
+    },
+
+    {
+        "name": "Ole",
+        "company": "Nepomucen",
+        "style": "non-alcoholic spanish gose",
+        "imgHash": "1GgAALuTngsM0kLCEZ905ciCAO0BmCgYe"
+    },
+    
+    {
+        "name": "Sourtime",
+        "company": "Maryensztadt craft brewery",
+        "style": "mango imperial ipa",
+        "imgHash": "1tx8kfClw3M5dIXwXW38ltJHorBtkEIeC"
+    },
+
+    {
+        "name": "Słoneczny dzień",
+        "company": "Za miastem",
+        "style": "weizen",
+        "imgHash": "15thHOeTvQCyG7P23DrE-T33AGABONdzV"
+    },
+
+    {
+        "name": "Witam witam.",
+        "company": "Artezan",
+        "style": "hazy ipa",
+        "imgHash": "1GAgWzrzMxi3v3L8pX53xPgnp0hcw-9tT"
+    },
+    
+    {
+        "name": "Wujek z Warszawy",
+        "company": "Zakładowy",
+        "style": "hazy west coast ipa",
+        "imgHash": "1VjwZVZN_TLVW06mSN87iZASjzWi-ieTs"
+    },
+
+    {
+        "name": "Schops",
+        "company": "Stu mostów",
+        "style": "Schops",
+        "imgHash": "18-b1d1xR5SBU47fB_9sFVUNMIrIzEWdh"
+    },
+
+    {
+        "name": "Dubbel",
+        "company": "Trzech kumpli",
+        "style": "dubbel",
+        "imgHash": "1v9slxUeI-hDtrBO1N3sjTnaJKrvAmPIp"
+    },
+
+    {
+        "name": "Full Nelson",
+        "company": "Trzech kumpli",
+        "style": "nelson sauvin hazy ipa",
+        "imgHash": "1tstHClef_oDyMpgYf2XyRHiy5OZuvx38"
+    },
+
+    {
+        "name": "Esteban APA",
+        "company": "Inne beczki",
+        "style": "maracuya apa",
+        "imgHash": "1KVquwDVz8jW9sJ5HyfMh56n-GScnsr3A"
+    },
+
+    {
+        "name": "Mangove",
+        "company": "Wrężel",
+        "style": "weizen",
+        "imgHash": "1Al4lRCl1V706AxUyGNwaMZNfSDEUS8X9"
+    },
+
+    {
+        "name": "Goedemorgen",
+        "company": "Trzech kumpli",
+        "style": "belgian ipa",
+        "imgHash": "1sdNv0mYriwwu-HAvjkakPy4dOaK2t5iL"
+    },
+
+    {
+        "name": "Double gelato",
+        "company": "Funky fluid & Omnipollo",
+        "style": "banana & bilberry peanut butter cheesecake double gelato",
+        "imgHash": "1LZ5c2ESQjQNcnqeS3cWBF_FR1kt6lyqM"
+    },
+
+    {
+        "name": "Combo IPA vol.5",
+        "company": "Wilk",
+        "style": "combo ipa vol.5",
+        "imgHash": "1my7iO5PJLAWukPebFeEa75OrwakERYgn"
+    },
+
+    {
+        "name": "Szosa",
+        "company": "Nepomucen",
+        "style": "ddh hazy dipa",
+        "imgHash": "16_CRQ8rI9m2neGg2SRVqOAIfc68RE8bl"
+    },
+
+    {
+        "name": "Ole",
+        "company": "Nepomucen",
+        "style": "non-alcoholic spanish gose",
+        "imgHash": "1WtbLhDSnWRNzHwVFV19RLc2PddNHmWE4"
+    },
+
+    {
+        "name": "Heffner",
+        "company": "Birbant",
+        "style": "weizen",
+        "imgHash": "1iQBQJAp9nQUjpXZ4VwKSvFwG4wvJ30ef"
+    },
+
+    {
+        "name": "Milk Stout Chocolate",
+        "company": "Stu mostów & Salamander",
+        "style": "milk stout chocolate",
+        "imgHash": "1ca_ptF5LDzQT5so_wqPBiI5DjrVJ7J88"
+    },
+
+    {
+        "name": "Lola",
+        "company": "Raduga",
+        "style": "fruit berliner weisse",
+        "imgHash": "193Z4THNYUre1Z26Q4SVTzImKfbXqJzG5"
+    },
+
+    {
+        "name": "Odmieniec",
+        "company": "Perun",
+        "style": "milkshake ipa",
+        "imgHash": "1BDuuvSR9ouAO0YjCTlQO7j5SK8s0VQy4"
+    },
+
+    {
+        "name": "Hopsbant",
+        "company": "Birbant",
+        "style": "ddh citra ipa",
+        "imgHash": "1ivpC41InsVspNH6DYgzTORR2d7SNFWlD"
+    },
+
+    {
+        "name": "Starter",
+        "company": "Trzech kumpli",
+        "style": "american easy saison",
+        "imgHash": "1yvUsD4Yk8SQSnpcA22Mw2g5L40A-mTGp"
+    },
+
+    {
+        "name": "Szczyt sezonu",
+        "company": "Trzech kumpli",
+        "style": "double american rye saison",
+        "imgHash": "1oLTveuIewheMSIpv5cI-ureyKJM2ASn1"
+    },
+
+    {
+        "name": "kwas xy",
+        "company": "Pinta",
+        "style": "catharina sour",
+        "imgHash": "1stttx7NDBZ7dtitX-BLn-alEchkakTol"
+    },
+
+    {
+        "name": "Kwas Gamma",
+        "company": "Pinta",
+        "style": "raspberry sour ale",
+        "imgHash": "1UtKWm58-sZDfCpLyKfdh6bPdAeS5G38q"
+    },
+
+    {
+        "name": "Gelato Blotkake",
+        "company": "Funky fluid & Lervig",
+        "style": "raspberry, cranberry, marshmallow, vanilla, & graham cracker",
+        "imgHash": "1yzaUQGf8ZDt38zLcaqFzR2ch5tlylC0y"
+    },
+
+    {
+        "name": "Double Gelato",
+        "company": "Funky fluid & Mikkeller",
+        "style": "frugtsalad: blueberries, banana, kiwi, cocoa, almonds & vanilla",
+        "imgHash": "1-kgHeu_mI8LZTTjZE_sLh2C2xd1azI26"
+    },
+
+    {
+        "name": "Pollock",
+        "company": "Nepomucen",
+        "style": "blueberry & vanilla cream cake imperial pastry sour ipa",
+        "imgHash": "1OaRZ5HWFByfQu10Tw6mbSHcBFibqTL5I"
+    },
+
+    {
+        "name": "Yummy",
+        "company": "Birbant",
+        "style": "sabro & citra session ipa",
+        "imgHash": "1Jb_q9jNkgvVBOOuti5J6YTOP__TA403m"
+    },
+
+    {
+        "name": "Peach Hopsbant Milkshake",
+        "company": "Birbant",
+        "style": "ipa",
+        "imgHash": "1ixp7sHh9Pu-oAdkDHAKkpd0dm2A3o87I"
+    },
+
+    {
+        "name": "Fallen god",
+        "company": "AleBrowar",
+        "style": "oatmeal pale ale",
+        "imgHash": "1UCqlNakGSr-EfrFh1JY4ojwbgApvBXcg"
+    },
+
+    {
+        "name": "Be like Mitch",
+        "company": "AleBrowar",
+        "style": "american wheat",
+        "imgHash": "1mCaMl1n8D8Yko1cIDOvXz3RWHwyRXO4E"
+    },
+
+    {
+        "name": "Halbzeit",
+        "company": "Nepomucen",
+        "style": "german weissbier",
+        "imgHash": "1vM3BPfvyVnFO513B03uIAirZL5VdsoPz"
+    },
+    
+    {
+        "name": "Out",
+        "company": "Nepomucen",
+        "style": "french ale biere de garde",
+        "imgHash": "1THmRvE7P6Oiw-fFncqe5F73_dkUNcanY"
+    },
+
+    {
+        "name": "Hazy Bavarian",
+        "company": "Craft Kingdom",
+        "style": "green peper wheat",
+        "imgHash": "1BUpIazgMezmHmiJzOjklllHq1ZQlbmOr"
+    },
+
+    {
+        "name": "Earl Grey AIPA Lemon Edition",
+        "company": "revolta",
+        "style": "earl grey aipa",
+        "imgHash": "12FQdzpKuHqGC19ZdEMulpWU6LO34fR8D"
+    },
+
+    {
+        "name": "Deset: nula",
+        "company": "Nepomucen",
+        "style": "chech lager desitka",
+        "imgHash": "1cP8X9MVqnZ6oG9g2-cOoNne4aSJipqch"
+    },
+
+    {
+        "name": "IPA",
+        "company": "Hopito",
+        "style": "ipa",
+        "imgHash": "1bRH-5L-uj1qb_Td5lWWZoeJVW8Z_q2sU"
+    },
+    
+    {
+        "name": "Offside",
+        "company": "Nepomucen",
+        "style": "english ipa",
+        "imgHash": "1GzZJW8oSkQZc39-ITe1fQXLagHCnLqG5"
+    },
+
+    {
+        "name": "Berliner Weisse",
+        "company": "Funky fluid",
+        "style": "berliner weisse",
+        "imgHash": "1j2OVUDwiP0p4SN5LwFTdjqrcffSkd-Vu"
+    },
+    
+    {
+        "name": "Wood pecker",
+        "company": "Nepomucen",
+        "style": "pale ale",
+        "imgHash": "1Qqct2QHudH2D3XJHZkC6yoXHLXLG8fbW"
+    },
+
+    {
+        "name": "Pina colada",
+        "company": "Funky fluid",
+        "style": "sour triple ipa",
+        "imgHash": "1gOBzuIqSvqwo6EPrk6K-sT_icALQSHL9"
+    },
+
+    {
+        "name": "Pijże",
+        "company": "Nepomucen & Weźże krafta",
+        "style": "ddh apa",
+        "imgHash": "1Iq0YMb9yvDo5xNJ16Tw2sOo0Lpso_RgL"
+    },
+
+    {
+        "name": "Joe Rednecki",
+        "company": "Kraft daily",
+        "style": "white ipa",
+        "imgHash": "1Sys9dD1wKr03nbvhPw9Qs7Fb8neeQ72I"
+    },
+
+    {
+        "name": "Nihilnovi",
+        "company": "Trzech kumpli",
+        "style": "yet another ipa?",
+        "imgHash": "16BZU54vezkrP7SRpP9ZKsr2JI7RibkbT"
+    },
+
+    {
+        "name": "Corfu food advisor",
+        "company": "Maltgarden & Seven Island",
+        "style": "greek tzatziki pastry sour with pink guava & mango & cucumber",
+        "imgHash": "1znmc7WYBxuuZ3Rm03CNCXrybz7lSZH2o"
+    },
+
+    {
+        "name": "Pumpkin Spice Latte Milkshake",
+        "company": "Stu mostów & Salamander",
+        "style": "pumpkin spice latte milkshake",
+        "imgHash": "1IVL0eackF-HMjJmT5SfWaFA4WEGsBXBb"
+    },
+
+    {
+        "name": "Cztery strony świata",
+        "company": "Gwarek",
+        "style": "sencha earl grey ipa",
+        "imgHash": "1kiJnhv7WDIMp8lfeSdB4vGWa8mQzC5Hy"
+    },
+
+    {
+        "name": "Take me out",
+        "company": "Maryensztadt craft brewery",
+        "style": "hazy ipa",
+        "imgHash": "1ESnHAjmPXfIKZ53S1DbrxKZB351TB7Cb"
+    },
+
+    {
+        "name": "Super nova",
+        "company": "Piwne podziemie",
+        "style": "new england ipa",
+        "imgHash": "1iaMKkYWLs1GO-y8S_ux_Wmif6quRyCdf"
+    },
+
+    {
+        "name": "Hefeweizen",
+        "company": "Wrężel",
+        "style": "hefeweizen",
+        "imgHash": "1ZGpFXNU66e3D-F5O_AoepEXEq8--7kcB"
+    },
+
+    {
+        "name": "Panakeja",
+        "company": "Olimp",
+        "style": "yerba mate earl grey aipa",
+        "imgHash": "1wZ1MWk5kl6fOi9AtKWXREKUvYzG23CHM"
+    },
+
+    {
+        "name": "Charlotte",
+        "company": "Nepomucen",
+        "style": "apple pie ale",
+        "imgHash": "12xr_pOh_irDrLEkswasj8r5Rvu3J0ARU"
+    },
+
+    {
+        "name": "Forest",
+        "company": "Nepomucen",
+        "style": "forest ipa",
+        "imgHash": "1aFin7SHvF3-nCESkLkiJzwCy9A1bxuJD"
+    },
+
+    {
+        "name": "White APA",
+        "company": "Szałpiw",
+        "style": "white apa",
+        "imgHash": "1Qoq_6MDbV5RysNw8U_QZHt5w4jFTLO8o"
+    },
+
+    {
+        "name": "Kiokio",
+        "company": "Trzech kumpli",
+        "style": "new zealand wheat",
+        "imgHash": "10hKfC45j8dO7gwfLTmmicQtUme8Nu4nA"
+    },
+
+    {
+        "name": "Pils",
+        "company": "Trzech kumpli",
+        "style": "pils",
+        "imgHash": "1_C8bmtEzly-IJXotkMjYr9z9My9bpjHh"
     }
 ]
