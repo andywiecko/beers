@@ -781,5 +781,950 @@
         "company": "Trzech kumpli",
         "style": "pils",
         "imgHash": "1_C8bmtEzly-IJXotkMjYr9z9My9bpjHh"
+    },
+
+    {
+        "name": "Misty",
+        "company": "Trzech kumpli",
+        "style": "contemporary ipa",
+        "imgHash": "15tB_m2qxvi8TfA-pT8u9LymCIrjYg1tf"
+    },
+
+    {
+        "name": "Feelin' Lucky",
+        "company": "Trzech kumpli",
+        "style": "juicy ipa",
+        "imgHash": "1BNLv3Q19WNODWlgr2SLOBICPUyVW_ZWx"
+    },
+
+    {
+        "name": "Toucan",
+        "company": "Nepomucen",
+        "style": "tropical ipa",
+        "imgHash": "1skC-njRNzIFSVSWk3qVa447ODtrYxrvT"
+    },
+
+    {
+        "name": "Range",
+        "company": "Nepomucen",
+        "style": "orange pale ale",
+        "imgHash": "1oihFzJ_bQeRLF0xy_BWIblQCyUP-yAEc"
+    },
+
+    {
+        "name": "American freedom",
+        "company": "Doctor Brew",
+        "style": "ipa",
+        "imgHash": "13ekmK3IXiVSgRvckeOXjIL0ndHC5XERK"
+    },
+
+    {
+        "name": "Summer ALE",
+        "company": "Doctor Brew",
+        "style": "summer ale",
+        "imgHash": "1Q3mYcBdOdoRJlrx6nzH6ZUH9K8bfBe5f"
+    },
+
+    {
+        "name": "Szosa",
+        "company": "Nepomucen",
+        "style": "ddh dipa",
+        "imgHash": "1-DWZyDLzzktzfXp3p-Boz_XPhcSXXKDq"
+    },
+
+    {
+        "name": "Pop-art",
+        "company": "Nepomucen",
+        "style": "ddh double ipa",
+        "imgHash": "1ca-4m6KxvoIns2CGkoPKHKO2EoxHW60r"
+    },
+
+    {
+        "name": "Odskocznia",
+        "company": "Nook",
+        "style": "peach & mango wheat",
+        "imgHash": "1eIMREdO3PnIdtixu-tccCsuIk6dUG0cz"
+    },
+
+    {
+        "name": "Highway",
+        "company": "Nepomucen",
+        "style": "ddh hazy ipa",
+        "imgHash": "1R16O-Bk0OQM8ULI0dS23jryRMULmhOjr"
+    },
+
+    {
+        "name": "Porter malinowy",
+        "company": "Komes",
+        "style": "raspberry porter",
+        "imgHash": "1-7yRv6iQ-1UWKbyUHDl6USIFXHf0YuV7"
+    },
+
+    {
+        "name": "Mountain Pale Ale",
+        "company": "Bierol",
+        "style": "ipa",
+        "imgHash": "1w-hsL9DwmDcY4M7DV_91XqPPHA-lxG3v"
+    },
+
+    {
+        "name": "Room 001",
+        "company": "Bierol",
+        "style": "westcoast ipa",
+        "imgHash": "1uxCtOmKnzugMB-TVL39lBUmkg5TQHjej"
+    },
+
+    {
+        "name": "Casino",
+        "company": "Raduga",
+        "style": "pils",
+        "imgHash": "1VIB1aywPc3p9-IZ1i7ylE1Sav2VisfVa"
+    },
+
+    {
+        "name": "Some like it hot",
+        "company": "Raduga",
+        "style": "lemongrass american wheat",
+        "imgHash": "1UrPtBUsMHvGrvRM1yaq1fwgPNULeBZM-"
+    },
+
+    {
+        "name": "Meteor",
+        "company": "Raduga",
+        "style": "barley wine",
+        "imgHash": "1KmPsj3BCzUgUXuyb2RG6uVNx7kCTmb0H"
+    },
+
+    {
+        "name": "Solaris",
+        "company": "Raduga",
+        "style": "russian imperial stout",
+        "imgHash": "12uDFU4MuXHO5nsbbaG_T6brskqRk7S_d"
+    },
+
+    {
+        "name": "Lift To The Scaffold",
+        "company": "Raduga",
+        "style": "session ipa",
+        "imgHash": "1atIKZGBzOp7mcDxhB8PMeJUgTb4M1zbz"
+    },
+
+    {
+        "name": "Apartment",
+        "company": "Raduga",
+        "style": "six flakes american ipa",
+        "imgHash": "15-TnbbZ_CJjsK8sNegEhphxxuRRJ6hns"
+    },
+
+    {
+        "name": "Nosferatu",
+        "company": "Raduga",
+        "style": "black ipa",
+        "imgHash": "1OHoiBbdXls59ZbUYNLr0EDRFSy75KK5r"
+    },
+
+    {
+        "name": "Sunset Blvd",
+        "company": "Raduga",
+        "style": "rye india red ale",
+        "imgHash": "1vufzBNkZm6Rbl33P5zgO0CuYjtdJfj82"
+    },
+
+    {
+        "name": "Abisu",
+        "company": "Raduga",
+        "style": "calamansi wheat",
+        "imgHash": "1OKSRy0ZXFiG9YFtrsFM6uDrhlqMVdVKM"
+    },
+
+    {
+        "name": "American Pale Ale",
+        "company": "WhyDuck?",
+        "style": "apa",
+        "imgHash": "1CFB_AiNAM0198wbZxtTNvAmHjvZfv3oA"
+    },
+
+    {
+        "name": "aipa",
+        "company": "WhyDuck?",
+        "style": "aipa",
+        "imgHash": "1HJsHMZmme5RYdarj8zEOzL-XVvxIipPO"
+    },
+
+    {
+        "name": "American India Pale Ale",
+        "company": "Hedge Hog",
+        "style": "aipa",
+        "imgHash": "1TKWP3EjMDVOmx9gnITdCWhlKGQZLTvNj"
+    },
+
+    {
+        "name": "Lemon American Pale Ale",
+        "company": "Hedge Hog",
+        "style": "lemon apa",
+        "imgHash": "1w1YZVBdiHS71JDQO6oWyKCRBKGA24R18"
+    },
+
+    {
+        "name": "Wit bier",
+        "company": "WhyDuck?",
+        "style": "witbier",
+        "imgHash": "18lnd1jy7pcvwvDKHZ5uJ64pnuVGHQJaN"
+    },
+
+    {
+        "name": "Witbier",
+        "company": "Hedge Hog",
+        "style": "witbier",
+        "imgHash": "10HJEf6XNpv5uO9bFV3TDrjl-F9ngIH1m"
+    },
+
+    {
+        "name": "Lulu sour (porzeczka)",
+        "company": "Lulu",
+        "style": "sour",
+        "imgHash": "1Nx14YBGkLPVX5pF6DYvR_by8yw4IV3FG"
+    },
+
+    {
+        "name": "Lulu Coffe Milk Stout",
+        "company": "Lulu",
+        "style": "coffee stout",
+        "imgHash": "15Udz4huOhae4XBtIvcWt566QpfxTMVwJ"
+    },
+
+    {
+        "name": "Metropolis",
+        "company": "Raduga",
+        "style": "aipa",
+        "imgHash": "1_B_vQaUR8af3qDo2KvVQFjdCwW1yQDDR"
+    },
+
+    {
+        "name": "African Queen",
+        "company": "Raduga",
+        "style": "aframon apa",
+        "imgHash": "1Et1iBQEC1Fb-p6xo_MoxYxxD9JYzw64-"
+    },
+
+    {
+        "name": "Experimental Vermont IPA",
+        "company": "Doctor Brew",
+        "style": "experimental vermont ipa",
+        "imgHash": "1XJg09ucQaiFF5OCvQ9f-x5j5pdXb-vpW"
+    },
+
+    {
+        "name": "King of hop",
+        "company": "AleBrowar",
+        "style": "apa",
+        "imgHash": "19b6t17C0BE2tOEJ8TeWWslBI7jJwSHpw"
+    },
+
+    {
+        "name": "Woozy",
+        "company": "Garage Beer Co.",
+        "style": "ddh double ipa",
+        "imgHash": "1x-lfCTkeJWKJhK7UbR0_9R8mvYsO-XPb"
+    },
+
+    {
+        "name": "Mini maxi IPA",
+        "company": "Pinta",
+        "style": "non-alcoholic session ipa",
+        "imgHash": "1tbmex511_j0Yn7cBTq06tQ4v-6r35Rmk"
+    },
+
+    {
+        "name": "Juicy Papa",
+        "company": "Dear Bear",
+        "style": "ddh citra & amarillo ipa",
+        "imgHash": "1T6jIeEvEJYLks1dHpYWE7XG7RMaVR9Pk"
+    },
+
+    {
+        "name": "Malinowe kwaśne ALE",
+        "company": "Wrężel",
+        "style": "raspberry sour",
+        "imgHash": "1dUHtvnGS-Q8mN6UOT7umRc-Q_hV2hy4Q"
+    },
+
+    {
+        "name": "Amerykańska pszenica",
+        "company": "Na Jurze",
+        "style": "american weat",
+        "imgHash": "1em9ltlR-SsB4q_7zAWNQzhZuRvQmyleN"
+    },
+
+    {
+        "name": "Tropical black IIPA",
+        "company": "Wrężel",
+        "style": "tropical black imperial ipa",
+        "imgHash": "1lmxgOLLiLL8QeMs5PBZEslEqS2Oan9cE"
+    },
+
+    {
+        "name": "Jasny grom",
+        "company": "Perun",
+        "style": "apa",
+        "imgHash": "1XXBcXeeRY0TTtTUzhoRkGLd9qimQ9DHh"
+    },
+
+    {
+        "name": "El bom bero",
+        "company": "Soli Piwko",
+        "style": "ddh rye ipa",
+        "imgHash": "15v6qFSDPo6dpHO3rdJXquVoAZ_25srGI"
+    },
+
+    {
+        "name": "Postrach Szoszonów",
+        "company": "Waszczukowe",
+        "style": "aipa",
+        "imgHash": "1bmZ4882vxr9Er4DK-ePtBlaP7PSWg3CX"
+    },
+
+    {
+        "name": "Schafehax",
+        "company": "Bierol",
+        "style": "belgian wheat",
+        "imgHash": "1lgnWx3STFpHQE3m_uS7_PCNNpjZzbwgK"
+    },
+
+    {
+        "name": "Hoppy",
+        "company": "Nepomucen",
+        "style": "hoppy oatmeal ale",
+        "imgHash": "1gZhxZBbetw3avhGM064ZPL8F_lDTGZkQ"
+    },
+
+    {
+        "name": "Pszenica z sokiem (pacific z cytryną)",
+        "company": "Bestbir",
+        "style": "american wheat",
+        "imgHash": "1LahIl4NlCG2wQtCEHsXhANLjEEtEriIQ"
+    },
+
+    {
+        "name": "Piwo z sokiem (cytryna)",
+        "company": "Bestbir",
+        "style": "pils",
+        "imgHash": "1lg9zUsIM55dhdLKlACzSjONORf7x56iZ"
+    },
+
+    {
+        "name": "Angietka",
+        "company": "Piwoteka",
+        "style": "hefeweizen",
+        "imgHash": "13YQlF-PJY_B2gLz0GzliAywxE_dRs_8K"
+    },
+
+    {
+        "name": "Mango wiezen",
+        "company": "Birbant",
+        "style": "mango weizen",
+        "imgHash": "1MRjP5H1q8x77zQS2BU3SEniZ6tskOOng"
+    },
+
+    {
+        "name": "Rusałka",
+        "company": "Odrzański",
+        "style": "american wheat",
+        "imgHash": "1Iyri9aILVaqQK9oa7aTCHSLn8ZCQgiSB"
+    },
+
+    {
+        "name": "Podwójne",
+        "company": "Hopkins & Spółdzielczy",
+        "style": "fruit wheat",
+        "imgHash": "1H64m7RiVDa8_2EJWtIVgQhC3n2D1wuo-"
+    },
+
+    {
+        "name": "Festiwalowe 30",
+        "company": "Piwoteka",
+        "style": "ddh apa",
+        "imgHash": "12uqx8OL5rN05NPyL6TPNCQNVBOVuvbYq"
+    },
+
+    {
+        "name": "Crazy Mike",
+        "company": "AleBrowar",
+        "style": "double ipa",
+        "imgHash": "17vwPkQPUfRNXl3wfkCKSURDgGw2bh9fV"
+    },
+
+    {
+        "name": "Arcade",
+        "company": "Good game",
+        "style": "citra hefeweizen",
+        "imgHash": "1uMKngUjxJWd7vSlhX03fi5kjKZzvQQQn"
+    },
+
+    {
+        "name": "Summer ALE",
+        "company": "Piwo z Borów",
+        "style": "summer ale",
+        "imgHash": "1Sa1FUdktdwK4m0i43Fz4k4I1h-tnIxaF"
+    },
+
+    {
+        "name": "Z (zula, dziedzictwo)",
+        "company": "Perun",
+        "style": "ddh",
+        "imgHash": "1epL_1ruy89iHnmSVogGjBWC9E2jARxLR"
+    },
+
+    {
+        "name": "DIPA Yuzu and Guava",
+        "company": "Stu mostów",
+        "style": "dipa yuzu and guava",
+        "imgHash": "1itw9t6JGMsmrUYZf_VQPjsFxzDvsPHCM"
+    },
+
+    {
+        "name": "Hoptime",
+        "company": "Maryensztadt",
+        "style": "white ipa",
+        "imgHash": "1cXfUjtk-jwHyvBac5vpq97o-HguEG6h2"
+    },
+
+    {
+        "name": "Hefeweizen",
+        "company": "Stu mostó",
+        "style": "hefeweizen",
+        "imgHash": "1K-OALqLgn0dmZDsv0zIiPdrOCrNEyJug"
+    },
+
+    {
+        "name": "PSZEkulturalna",
+        "company": "Hoplala",
+        "style": "citrus weizen",
+        "imgHash": "1nSTtHUALuArWwFjAo9bWiqNx-YSlGbR4"
+    },
+
+    {
+        "name": "Sandy",
+        "company": "Funky fluid",
+        "style": "hefeweizen",
+        "imgHash": "1XrTmB3-rWNUy5B8yRTyElyQpkvPc1JQq"
+    },
+
+    {
+        "name": "Pan IPAni",
+        "company": "Trzech kumpli",
+        "style": "wheat ipa",
+        "imgHash": "1MsrIAJR9EMe3k3HdLfwupmEp-HUJwjY7"
+    },
+
+    {
+        "name": "Funky fruit",
+        "company": "Funky fluid",
+        "style": "peach weizen",
+        "imgHash": "1kqozXKoeDq10EwM-Inrx-t5Nus1LhjuH"
+    },
+
+    {
+        "name": "Cyprinus",
+        "company": "Nepomucen",
+        "style": "cherry weizen",
+        "imgHash": "177lLZdv6NPvvJSpEyfq6ZQtZOLS2aTyz"
+    },
+
+    {
+        "name": "Weizen (classic edition)",
+        "company": "Birbant",
+        "style": "weizen",
+        "imgHash": "1rXnlIOPAfWOZMKRXj8DXFct9MUUaF2kB"
+    },
+
+    {
+        "name": "Golden Ratio",
+        "company": "Szpunt",
+        "style": "ddh hazy session ipa",
+        "imgHash": "1vrtxl7xEkvkBmVDN6r2n2z7yLHwEONE_"
+    },
+
+    {
+        "name": "Cherry Bilberry",
+        "company": "Nepomucen",
+        "style": "gose with cherry & bilberry & vanilla",
+        "imgHash": "1Z2XC-JBlt3TKX4klYNSO7QFU3qVwpxSD"
+    },
+
+    {
+        "name": "Pelican 2.0",
+        "company": "Nepomucen",
+        "style": "passion fruit weizen",
+        "imgHash": "1qu2h2nzNJbAe1FiuNDi8k8jdABNohHgD"
+    },
+
+    {
+        "name": "Ziarno prawdy",
+        "company": "Perun",
+        "style": "hefeweizen",
+        "imgHash": "1Y6IahcEnu4zLrHBeowIiZt17VImvsRAs"
+    },
+
+    {
+        "name": "Milkshake IPA",
+        "company": "Stu mostów & Salamander",
+        "style": "strawberry milkshake ipa",
+        "imgHash": "1D4t8seZ_jD30KJVcO5_ubEEXPfL1Qbhy"
+    },
+
+    {
+        "name": "Rabarbery",
+        "company": "Birbant",
+        "style": "rhubarb & strawberry pastry sour",
+        "imgHash": "1Pe4-GdooA_G-yNMV-NGmInH8vMZ0Y7f6"
+    },
+
+    {
+        "name": "Tento",
+        "company": "Nook",
+        "style": "nitro hazy ddh ipa",
+        "imgHash": "1ByOzB6LOiMDESfJZ5XucFjxoBDB-3uMa"
+    },
+
+    {
+        "name": "Lazy Panda",
+        "company": "Lazy Panda",
+        "style": "non-alcoholic raspberry & lichi",
+        "imgHash": "1gcKKR-BGLeFtSXaP3Qt1-3nNJhkrbf1y"
+    },
+
+    {
+        "name": "Krawaciarz",
+        "company": "Lasowiak",
+        "style": "earl grey ipa",
+        "imgHash": "1yRd4vO4U5jUkKyzx9woPZMqbeYQzhZoV"
+    },
+
+    {
+        "name": "APA",
+        "company": "Maryensztadt",
+        "style": "apa",
+        "imgHash": "1eHc2PgQxpoP0fJzNR9WTM9211B8QoCh-"
+    },
+
+    {
+        "name": "Pacific pale ale",
+        "company": "Pyynikin",
+        "style": "pacific pale ale",
+        "imgHash": "1bavY4HSozYFExufYMROkmdRKOLkve5ni"
+    },
+
+    {
+        "name": "Beatnik junior",
+        "company": "Kingpin",
+        "style": "session brut ipa",
+        "imgHash": "1FKap7GUU2DGc3ch091dIsuS-m4PHfCTH"
+    },
+
+    {
+        "name": "California",
+        "company": "Brodacz",
+        "style": "aipa",
+        "imgHash": "1Cqj-1BEA7K6tSo0RLPs0a2O94FbNIeo8"
+    },
+
+    {
+        "name": "Modern Drinking",
+        "company": "Pinta",
+        "style": "west coast ipa",
+        "imgHash": "1Xb_MDayz7GppF4jPMD2On-bmBmk66L09"
+    },
+
+    {
+        "name": "Polish Pale Ale",
+        "company": "Waszczukowe",
+        "style": "polish pale ale",
+        "imgHash": "1QVIMklAmnqxi6lHlVw8nYZdDKrzrGkBa"
+    },
+
+    {
+        "name": "PSZEcudnej urody",
+        "company": "Hoplala",
+        "style": "orange witbier",
+        "imgHash": "11szgk_njobKqgSgFX6Px8S7LTYC3tVVQ"
+    },
+
+    {
+        "name": "Czas na przerwę",
+        "company": "Nook",
+        "style": "white ipa",
+        "imgHash": "1vRlWp82DaO8kBAa26CgpMZff4p23oo6I"
+    },
+
+    {
+        "name": "Amok",
+        "company": "Trzech kumpli",
+        "style": "honestly hopped ipa",
+        "imgHash": "1EOe6VXxj02kjH7iDWfoe7heQy9AoK3FL"
+    },
+
+    {
+        "name": "Hefeweizen",
+        "company": "Stu mostów",
+        "style": "hefeweizen",
+        "imgHash": "1JYVCtDoF9LmFlIohhvUhGqY_LOtexiuM"
+    },
+
+    {
+        "name": "Earl Grey AIPA",
+        "company": "revolta",
+        "style": "earl grey aipa",
+        "imgHash": "1GlzdHdm6jMiIbECjevKflbdPltgpOtLo"
+    },
+
+    {
+        "name": "Freak Fight 2nd Round",
+        "company": "Dear Bear",
+        "style": "ddh dipa",
+        "imgHash": "1xXrWBCSOIKhglLzDg9MuT7UIy09z2AYL"
+    },
+
+    {
+        "name": "piękna mądra zdolna",
+        "company": "Hoplala",
+        "style": "pale ale",
+        "imgHash": "1Kmd5mUPwxEUEGgIBq9o5JJLVhCnzO8Yn"
+    },
+
+    {
+        "name": "RIS",
+        "company": "Jan Olbracht",
+        "style": "russian imperial stout",
+        "imgHash": "18KUf9JnhJbH4vXKQ1yj3z5AhVGfCdZgP"
+    },
+
+    {
+        "name": "Pszeniczny",
+        "company": "Inne beczki",
+        "style": "weizen",
+        "imgHash": "1PnSJQedcD3zmmij7RLasY5YABLz96oxz"
+    },
+
+    {
+        "name": "Piaseczyńskie",
+        "company": "BeerLab",
+        "style": "weizen",
+        "imgHash": "1wgwcA981C8GHFNyeYYd21V_Z6BfTnvRO"
+    },
+
+    {
+        "name": "Rejwach na Kazimierzu",
+        "company": "URSA",
+        "style": "belgian summer ale",
+        "imgHash": "1Cm-CyS3KsGEPTHtcqmnHcTOEjv7yqHB1"
+    },
+
+    {
+        "name": "Noc nad Otrytem",
+        "company": "URSA",
+        "style": "belgian dark ale",
+        "imgHash": "1sZ6eke1XKFPS1JQzDJFvctK12jnlnG5E"
+    },
+
+    {
+        "name": "Drapieżnik",
+        "company": "URSA",
+        "style": "session ipa",
+        "imgHash": "1A-swCSXubQp7Q1nhc6JcEWkr5B29gCjo"
+    },
+
+    {
+        "name": "Dwa misie",
+        "company": "URSA",
+        "style": "belgian strong ale",
+        "imgHash": "1m27bIIG4BRgn7f25-NMptvMFlqVu__Pw"
+    },
+
+    {
+        "name": "Dodo",
+        "company": "Artezan",
+        "style": "tropical ipa",
+        "imgHash": "12vbs0TbBs-OecnotbbhV1bueLmp5HYOu"
+    },
+
+    {
+        "name": "Bawarska pszenica",
+        "company": "Maryensztadt",
+        "style": "weizen",
+        "imgHash": "1RI-SatxFZZXoM2R2r1IGYN6wf93m4cet"
+    },
+
+    {
+        "name": "Hard bride",
+        "company": "AleBrowar",
+        "style": "american barley wine",
+        "imgHash": "1JNxWKkqL68QZ2dCqe1EcdhKkw6Nj9ONq"
+    },
+
+    {
+        "name": "Jason",
+        "company": "Soli piwko",
+        "style": "new england pale ale",
+        "imgHash": "1MQNmJzg2I82ryVZMJUqf6Nl7lBEHT61c"
+    },
+
+    {
+        "name": "Bearnard (tropical island)",
+        "company": "Czarny kot",
+        "style": "pils",
+        "imgHash": "1Wc6tgWzTJiXiu4rhWSqLbMUtTb5vd6um"
+    },
+
+    {
+        "name": "Ciemna strona... lasu",
+        "company": "Czarny kot",
+        "style": "pils",
+        "imgHash": "1X0h-1KA26FhdNFM5vfAvYvxBBC0T3Teh"
+    },
+
+    {
+        "name": "Delirium tremens",
+        "company": "Huyghe",
+        "style": "belgian strong ale",
+        "imgHash": "1F61aJbUHNruEyPLnfTbLA5wCQXO_-i4A"
+    },
+
+    {
+        "name": "Święty spokój",
+        "company": "Za miastem",
+        "style": "earl grey ipa",
+        "imgHash": "17M3_aIZW7nwDlTySDGELpIA6toy_oabB"
+    },
+
+    {
+        "name": "Pan tu nie stał",
+        "company": "Czarny kot",
+        "style": "pils",
+        "imgHash": "1CTnCfsutnczFY-98eIeT6iJSxb7R17wn"
+    },
+
+    {
+        "name": "Blackcurrant berliner weisse",
+        "company": "Salamander",
+        "style": "blackcurrant berliner weisse",
+        "imgHash": "1tfjvC8t8P52BXvjAToZd-rmHwEzPNODr"
+    },
+
+    {
+        "name": "Brut IPA",
+        "company": "Salamander",
+        "style": "brut ipa",
+        "imgHash": "1lizhttrFVHRDsfz88Hnyi3UeqjbHos5f"
+    },
+
+    {
+        "name": "Samurai rebelion",
+        "company": "Raduga",
+        "style": "jasmine sencha teapa",
+        "imgHash": "1PobS1IBbtVAmJkcwK-vBk1uofD8026Mm"
+    },
+
+    {
+        "name": "Last Summer",
+        "company": "Raduga",
+        "style": "mango wheat",
+        "imgHash": "1poVW5bTgv-5amj_4eci3xFrcjpTE-AzI"
+    },
+
+    {
+        "name": "Apache",
+        "company": "Raduga",
+        "style": "wit ipa",
+        "imgHash": "1wSjdKSg8ELsIFYyrGwgFgRpfW26InRd7"
+    },
+
+    {
+        "name": "Dr Jekyll",
+        "company": "Raduga",
+        "style": "yuzu wheat",
+        "imgHash": "1A64Av2srrq_gi67pCp_X7vfrRClTf4Ue"
+    },
+
+    {
+        "name": "ADHD",
+        "company": "Służba zdrowia",
+        "style": "apa",
+        "imgHash": "1gjHUOLxGu9kCL-QSzQ1xIJATJULRq_X4"
+    },
+
+    {
+        "name": "atak serca",
+        "company": "Służba zdrowia",
+        "style": "aipa",
+        "imgHash": "12-c8XkUser1Ei7TpNuDgrN671GoW6StW"
+    },
+
+    {
+        "name": "Lulu apa",
+        "company": "Lulu",
+        "style": "apa",
+        "imgHash": "1oZCDW9gwrs96lXgxD36poIkAmpAqQo4E"
+    },
+
+    {
+        "name": "Lulu sour (marakuja)",
+        "company": "Lulu",
+        "style": "sour",
+        "imgHash": "1WXtdsbuDbWw7p0lwefxYYbq3k9ZqHas7"
+    },
+
+    {
+        "name": "Vermont american IPA",
+        "company": "Wrężel",
+        "style": "vermont aipa",
+        "imgHash": "1vns4dtSE6A9hQkpGN2j5sDaWdfuY0oFd"
+    },
+
+    {
+        "name": "AleDźwiedź",
+        "company": "Kazimierz",
+        "style": "black ipa",
+        "imgHash": "1v7gCk2EQhTSfNFit5fMAzBGFV1v60oVR"
+    },
+
+    {
+        "name": "Cherry Milkshake Stout",
+        "company": "Hedge Hog",
+        "style": "cherry milkshake stout",
+        "imgHash": "1IqBgm1Cl4UOa2Dtku18-agk4gKNiy6NG"
+    },
+
+    {
+        "name": "Big Bang Theory",
+        "company": "Komitet",
+        "style": "imperial ipa",
+        "imgHash": "1Eq8xqRIarDkx5Ee0zqA7I3jxVB6Drde7"
+    },
+
+    {
+        "name": "a ja pale ale",
+        "company": "Pinta",
+        "style": "apa",
+        "imgHash": "1EHZCN5eJpQgEwbvZxkwpUocR9KUahhtd"
+    },
+
+    {
+        "name": "Jungle IPA",
+        "company": "Inne beczki",
+        "style": "ipa",
+        "imgHash": "1p0VLDltnbh1ZBAVnj2FMyUeSfMfMxO6a"
+    },
+
+    {
+        "name": "Hecarz",
+        "company": "Gloger",
+        "style": "pils",
+        "imgHash": "1fnfi_r2pwee8kbqTjVTo2EEyu97eg330"
+    },
+
+    {
+        "name": "atak chmielu",
+        "company": "Pinta",
+        "style": "aipa",
+        "imgHash": "1oP0Q_YFQRt1asvqRYvGokPshnN4WtSWB"
+    },
+
+    {
+        "name": "Silesiana (oficialne piwo festiwalowe)",
+        "company": "Piekarnia piwa",
+        "style": "hazy summer ale",
+        "imgHash": "11MehiIwT5EYsS3xF87IbG-izsbfK7fs_"
+    },
+
+    {
+        "name": "2#5 dwójka APA (z trawą cytrynową)",
+        "company": "alternatywa",
+        "style": "apa",
+        "imgHash": "14Q_lzqqUDI6QMyj2TphC7gLbLOZs33CO"
+    },
+
+    {
+        "name": "sTEAm Time",
+        "company": "Kraftwerk",
+        "style": "earl grey & hibiscus ipa",
+        "imgHash": "1YYJG-ER-Ka6AgbZvesvQm7lTmLIbEROj"
+    },
+
+    {
+        "name": "viva la wita!",
+        "company": "Pinta",
+        "style": "imperial witbier",
+        "imgHash": "1Q21QtmXsGlhKO9Z6pSKf4y0GBrGRUY4q"
+    },
+
+    {
+        "name": "American IPA",
+        "company": "Doctor Brew",
+        "style": "aipa",
+        "imgHash": "1dTQPtlrQA2Je7hb_ZSdqVKzmfDn-c-65"
+    },
+
+    {
+        "name": "Molly IPA",
+        "company": "Doctor Brew",
+        "style": "molly ipa",
+        "imgHash": "1glzgmyjPoHIt2gDEQakJ_VeWyAS7HNTo"
+    },
+
+    {
+        "name": "5#1 piątka Słodka Pszenica",
+        "company": "alternatywa",
+        "style": "wheat",
+        "imgHash": "1zoNLqZIwrEAxk7FFttnsucCSon5emjBs"
+    },
+
+    {
+        "name": "Imbryczek destrukcji",
+        "company": "Harpagan",
+        "style": "american wheat with lady grey",
+        "imgHash": "1flfZLvEwWmhSCB7CQiTIzeTJjlNruZ9h"
+    },
+
+    {
+        "name": "Korona Olbrachta",
+        "company": "Olbracht",
+        "style": "pils",
+        "imgHash": "122KloaZr3PPx-eh1PEtvThGiaI5YhBtM"
+    },
+
+    {
+        "name": "Pszecitrus (marakuja)",
+        "company": "Dukla",
+        "style": "weizen",
+        "imgHash": "1J5nW1yND2GVHJOcLlM9Ua43GEcsfhzSy"
+    },
+
+    {
+        "name": "Juicy delight",
+        "company": "Rock mill",
+        "style": "aipa",
+        "imgHash": "1Ralf0Y8FmCmfLKHz2IAQOU69fj9G0Z3H"
+    },
+
+    {
+        "name": "Gorzkie żale",
+        "company": "Gloger",
+        "style": "apa",
+        "imgHash": "1opkaDso_jqOXRtYZC_fwx_sHEbNVs8Dz"
+    },
+
+    {
+        "name": "Ju-Rajska Pomarańcza",
+        "company": "Na Jurze",
+        "style": "weizen",
+        "imgHash": "1GJUDFsHsaZ33oyRBSomQzSWu1MtGNATk"
+    },
+
+    {
+        "name": "Krasna jędza",
+        "company": "Gloger",
+        "style": "red irish ale",
+        "imgHash": "1ba6_atwUDJtTUJOKfC4mKRDzMauQNhuJ"
     }
 ]
