@@ -1726,5 +1726,89 @@
         "company": "Gloger",
         "style": "red irish ale",
         "imgHash": "1ba6_atwUDJtTUJOKfC4mKRDzMauQNhuJ"
+    },
+
+    {
+        "name": "Gelato Neapolitan cake",
+        "company": "Funky fluid",
+        "style": "gelato neapolitan cake",
+        "imgHash": "1wRJFaPzHsaTj7ma6DgtaBVpNHc37eqkH"
+    },
+
+    {
+        "name": "Red splash",
+        "company": "Funky fluid",
+        "style": "double fruited gose",
+        "imgHash": "1pqMzyNhga1tNFaLDLLlr7h0bQ_76McL_"
+    },
+
+    {
+        "name": "Happy to be a fruit",
+        "company": "Nepomucen",
+        "style": "calamansi imperial neipa",
+        "imgHash": "1bGW4HBNM48tt69kX_UOKt4H3byFtZTPH"
+    },
+
+    {
+        "name": "Cherry bloom",
+        "company": "Nook",
+        "style": "cherry, apricot & marshmallow non-alcoholic sour ale",
+        "imgHash": "1lEMTO5IdJsT4G2Jsgd8ugBminZRImJ-J"
+    },
+
+    {
+        "name": "Squalo",
+        "company": "Birbant",
+        "style": "sabro & sorachi ace ddh double juicy ipa",
+        "imgHash": "1JxLjbAHSCxVVzbSvF7isepGwJLjx6bbs"
+    },
+
+    {
+        "name": "Beskidy",
+        "company": "Pinta",
+        "style": "weizen",
+        "imgHash": "1XUPs8UhRQn7LqqKqSBc02NOuAqyaphPj"
+    },
+
+    {
+        "name": "Obsession",
+        "company": "Funky fluid",
+        "style": "session neipa",
+        "imgHash": "1kvFzyGKk0Z5rrj-qFHWRFBz1gE0mo7Of"
+    },
+
+    {
+        "name": "Mango",
+        "company": "Funky fluid",
+        "style": "sour ale",
+        "imgHash": "15IiVqqD8S8EIqs_CYRiw-yWQIpORIVux"
+    },
+
+    {
+        "name": "Cloudy",
+        "company": "Funky fluid",
+        "style": "neipa",
+        "imgHash": "13EdJtdoOqCqtm8W7qgje6fMLOKZdHvNz"
+    },
+
+    {
+        "name": "Chmielokrata HBC 630",
+        "company": "Piwne podziemie",
+        "style": "hop heavy ipa",
+        "imgHash": "1JbjZss_bk-7GzH699pDNm1txNECqd_n8"
+    },
+
+    {
+        "name": "Talus single hop",
+        "company": "Nepomucen",
+        "style": "hazy ipa",
+        "imgHash": "1ElOdem3iC3B8W_cONbjz4Um1tlRZ76Ae"
+    },
+
+    {
+        "name": "Maria",
+        "company": "Nepomucen",
+        "style": "imperial berliner weisse: strawberry, raspberry, blueberry, blackberry, marshmallow",
+        "imgHash": "1KJJH5tYrTot0N3hI3QFRq6uQAASi61UH"
     }
 ]

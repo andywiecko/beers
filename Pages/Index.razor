@@ -5,6 +5,8 @@
 
 <PageTitle>andywiecko beers labels collection</PageTitle>
 
+<MudText>Labels count: @BeersCount</MudText>
+
 <MudTextField @bind-Value="Input" T="string" Variant="Variant.Outlined" Class="mb-16"></MudTextField>
 
 
@@ -43,7 +45,7 @@ else
     public string Input { get; set; } = "";
 
     public Regex regex => new(Input, RegexOptions.IgnoreCase);
-
+    public string BeersCount => beersData == null ? "???" : beersData.Length.ToString();
     private BeerData[]? beersData;
 
     private void OpenDialog(string src, BeerData beerData)
