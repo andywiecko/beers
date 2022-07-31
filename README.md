@@ -7,6 +7,6 @@ Implemented searchbar accepts regex like selection of the beers.
 
 ## TODO
 
-- [ ] beers counter 🔢
+- [X] ~~beers counter 🔢~~
 - [ ] star icon at favorite products ⭐
 - [ ] uploading new labels every 2-3 months 🍻
