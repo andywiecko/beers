@@ -1810,5 +1810,68 @@
         "company": "Nepomucen",
         "style": "imperial berliner weisse: strawberry, raspberry, blueberry, blackberry, marshmallow",
         "imgHash": "1KJJH5tYrTot0N3hI3QFRq6uQAASi61UH"
+    },
+
+    {
+        "name": "Laureate",
+        "company": "magic road",
+        "style": "neipa",
+        "imgHash": "1GNnTylZiB4yedj6-08MaV5OHJuhJqZsg"
+    },
+    
+    {
+        "name": "Fallowe",
+        "company": "Sady",
+        "style": "fruit ale",
+        "imgHash": "1-t4fZlYLT_nbFdvDb9P40QiZJlnuW-sc"
+    },
+   
+    {
+        "name": "Gooseberry",
+        "company": "Funky Fluid",
+        "style": "sour ale",
+        "imgHash": "1mPqVe4f-LOvp6A_QqKMaSPrLU5w5-pvn"
+    },
+   
+    {
+        "name": "Jam Session",
+        "company": "Funky Fluid",
+        "style": "hazy apa",
+        "imgHash": "12A3HOX9Vli0_znPyeL_4cr1S-7c-UtDz"
+    },
+   
+    {
+        "name": "Zio",
+        "company": "Funky Fluid",
+        "style": "adriatic ipa",
+        "imgHash": "1-fsxXVS98osgL2EIh-ek4u7OhygHpodr"
+    },
+   
+    {
+        "name": "Funky fruit",
+        "company": "Funky Fluid",
+        "style": "nectarine & yellow kiwi weizen",
+        "imgHash": "1FnEJ8AvtwO-LE8UslwHFlFv_W38uDgcy"
+    },
+   
+    {
+        "name": "Pink guava",
+        "company": "Funky Fluid",
+        "style": "sour ale",
+        "imgHash": "14JjMko99J8kpHoGmInnIIDBfsltR-Ucx"
+    },
+   
+    {
+        "name": "Tropical gose",
+        "company": "Stu mostów",
+        "style": "white guava, passion fruit, mango gose",
+        "imgHash": "1DDiiaDZgW9u0TzjaDnj2O9L2mthHBStw"
+    },
+   
+    {
+        "name": "Fruit ale",
+        "company": "Stu mostów",
+        "style": "strawberry fruit ale",
+        "imgHash": "1QNpUcTZ4kwCRjZEhEqxr0lDRXMEar_1b"
     }
 ]

@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BeersBlazor.dll": "sha256-ng+zRFjU8A2i\/OOczDjezqTCU+atvZ1ZUMLGAb3BQlM=",
+      "BeersBlazor.dll": "sha256-wfG1tvnPErHGA+JZDVH39BRC4\/eRL\/HhDNFHjCe\/9+A=",
       "Microsoft.AspNetCore.Components.dll": "sha256-meiSAjn1ueUdR2AcTpgwCrBeZKLF66aI1fAzgM\/YZig=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-5fh8i2M2J1yuvw3XiVLZzCuR1PcdTqeZ8P7TEpNHXas=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-3XpppDdbtpQDH2dE9cNGfJP4ul7sGJgB5+mF3osySnI=",
