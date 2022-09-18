@@ -1873,5 +1873,117 @@
         "company": "Stu mostów",
         "style": "strawberry fruit ale",
         "imgHash": "1QNpUcTZ4kwCRjZEhEqxr0lDRXMEar_1b"
+    },
+
+    {
+        "name": "Robin",
+        "company": "Nepomucen",
+        "style": "sorachi ace sashmere ekuanot neipa",
+        "imgHash": "167uxinufVtt0KI7N7TjvIb9474MqSIM9"
+    },
+
+    {
+        "name": "Crazy lines #15 Five O'Clock",
+        "company": "Nepomucen",
+        "style": "sorachi ace mosaic columbus tea ipa",
+        "imgHash": "1aEUfwc2ov8ZHC8BqY-I4PDGUB4ceuPZL"
+    },
+    
+    {
+        "name": "Sour Pina Colada",
+        "company": "Nook",
+        "style": "pineapple coconut apricot sour",
+        "imgHash": "1_EMm-12dHxKqTLJ0ubftz6jX84gNH8FV"
+    },
+
+    {
+        "name": "the deal hunter",
+        "company": "Stu mostów",
+        "style": "new england dipa",
+        "imgHash": "1UK2YMVvZqIeGP6CSD60QsRIFdZ7B4Reo"
+    },
+
+    {
+        "name": "Sezon drugi",
+        "company": "Zakładowy",
+        "style": "apa",
+        "imgHash": "1MQSE7UOrBaJBtzcLCj4FSfWRn2POIB7O"
+    },
+
+    {
+        "name": "1000% Normy",
+        "company": "Zakładowy",
+        "style": "quad black ipa",
+        "imgHash": "1WX8XuDhjw54Ow-pWeDv3bpuGmuFZjwSK"
+    },
+
+    {
+        "name": "Rhythm of the night",
+        "company": "Magic road",
+        "style": "dipa",
+        "imgHash": "1dR3jkIDKMxDrk2eHlEq7WbKVFcd6RMxl"
+    },
+
+    {
+        "name": "One by one",
+        "company": "Magic road",
+        "style": "neipa",
+        "imgHash": "1qDyf0Fxukz9PcQGMbwQTCxK7bS6DMLKq"
+    },
+
+    {
+        "name": "Pelican",
+        "company": "Nepomucen",
+        "style": "fruit weizen",
+        "imgHash": "1n_QmfE1Dzv9lDcmhuEPuCViEEYNCJEeB"
+    },
+
+    {
+        "name": "Mojito",
+        "company": "Funky fluid",
+        "style": "sour ale",
+        "imgHash": "1LCBt16b-P8XCsu4zlgPxrf0G6tguDdTU"
+    },
+
+    {
+        "name": "Witam.",
+        "company": "Artezan",
+        "style": "session hazy ipa",
+        "imgHash": "1t7C2p8KHX1lskzRkxe_d41yewF6P-jHh"
+    },
+
+    {
+        "name": "Grejpfrutowy",
+        "company": "Inne beczki",
+        "style": "weizen",
+        "imgHash": "1C2srJLmDhssZWNYVl46Dj5dqXg5SMGRe"
+    },
+
+    {
+        "name": "Milkshake IPA",
+        "company": "Stu mostów",
+        "style": "milkshake ipa strawberry",
+        "imgHash": "18lE-AUbKAmJ30bjSEp1GHWwQkmGFjzK8"
+    },
+
+    {
+        "name": "Fog season",
+        "company": "Raduga",
+        "style": "ddh hazy ipa",
+        "imgHash": "1wEcYaJbBfRiEZYKbKHWRtDCBBMPP_7zB"
+    },
+
+    {
+        "name": "Triple triumph",
+        "company": "Funky fluid",
+        "style": "triple neipa",
+        "imgHash": "1kSf9oy5W0d9UB2u6xDViN-PI-4icFP2L"
+    },
+
+    {
+        "name": "Mango man",
+        "company": "AleBrowar",
+        "style": "lassi mango sour ale",
+        "imgHash": "1q8jff-xg_F9fqgKJHY1_e7Vo7iA-EOiu"
     }
 ]
