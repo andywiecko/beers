@@ -1985,5 +1985,209 @@
         "company": "AleBrowar",
         "style": "lassi mango sour ale",
         "imgHash": "1q8jff-xg_F9fqgKJHY1_e7Vo7iA-EOiu"
+    },
+
+    {
+        "name": "Tropical smoothie",
+        "company": "Funky fluid & Nook",
+        "style": "smoothie ale",
+        "imgHash": "1OW7rxzY_6M1Ks6WYRaFMDywQLia2CPfl"
+    },
+
+    {
+        "name": "Wit me babe one more time",
+        "company": "Moczybroda",
+        "style": "grapefruit witbier",
+        "imgHash": "1Ig5JyH_sSbiwTa_6IrTIO_ys4tWDJSjP"
+    },
+
+    {
+        "name": "Hoppy wave",
+        "company": "Moczybroda",
+        "style": "mosaic & citra double ipa",
+        "imgHash": "1D83MV1rgGhEzYHrB2JBTQK6YWPqC8_pc"
+    },
+
+    {
+        "name": "Wataha",
+        "company": "Ursa Maior",
+        "style": "strong ale",
+        "imgHash": "1QWqzrmuoEOe0lK036i66SS-8nf691IEB"
+    },
+
+    {
+        "name": "Maniac",
+        "company": "Funky fluid",
+        "style": "double neipa",
+        "imgHash": "1ai1xEYXlPE22AmAJx6DscIBSUk1rA6sk"
+    },
+
+    {
+        "name": "hazy morning",
+        "company": "Pinta",
+        "style": "hazy apa",
+        "imgHash": "1LZkq4vIqwPXPyqNtYz-lr6Y7RXl_29RL"
+    },
+
+    {
+        "name": "Pink panther",
+        "company": "Wrężel",
+        "style": "weizen",
+        "imgHash": "1Du3OHhS7ujJt7erY1wGQfa18P-Yrfg6p"
+    },
+
+    {
+        "name": "Triple simcoe",
+        "company": "Funky fluid",
+        "style": "triple neipa",
+        "imgHash": "1Vencacz43X52cg8ckf2ebpbLjgvS4vXw"
+    },
+
+    {
+        "name": "Vermont IPA",
+        "company": "Recraft",
+        "style": "neipa",
+        "imgHash": "1SyapS8oRwynVukfI_Zj9XdxAnZu5swHU"
+    },
+
+    {
+        "name": "Gelato",
+        "company": "Funky fluid",
+        "style": "plum pie ice cream sour",
+        "imgHash": "1GT8WtPEB7NjO6s1dS0r5VOsmmbQR9rle"
+    },
+
+    {
+        "name": "Triple Eldorado",
+        "company": "Funky fluid",
+        "style": "triple neipa",
+        "imgHash": "1Iq-JbZPboS0dz0BlmWIlYhpmZW3tZOQQ"
+    },
+
+    {
+        "name": "Labirytm",
+        "company": "Nepomucen",
+        "style": "american pale ale",
+        "imgHash": "1ecO7bGsyKlMFKu4HOLw4O8t1YidJBp94"
+    },
+
+    {
+        "name": "Toucan",
+        "company": "Nepomucen",
+        "style": "tropical ipa",
+        "imgHash": "1tPVVlDHwPAD-5Lhn_lRzqTmjPFVh7irC"
+    },
+
+    {
+        "name": "Smoothie beer sweet",
+        "company": "Maryensztadt",
+        "style": "pear mango yuzu vanilla pastry sour fruit ale",
+        "imgHash": "1-hcIG6COqQUgAOjOBLyRtJcQcJjEMfbZ"
+    },
+
+    {
+        "name": "Smoothie beer sweet",
+        "company": "Maryensztadt",
+        "style": "mango orange banana marshmallow pastry sour fruit ale",
+        "imgHash": "1ZUcyVM8B7UXBjvw5yZFE5oIcDAJqBNvL"
+    },
+
+    {
+        "name": "Crazy lines #03 Citra x Mosaic",
+        "company": "Nepomucen",
+        "style": "centennial ddh hazy dipa",
+        "imgHash": "16vHpBGmOYZok2Xni8_tkfolY_7c-DzAV"
+    },
+
+    {
+        "name": "Rauchdoppelbock",
+        "company": "Trzech kumpli & Łańcut",
+        "style": "smoked double bock",
+        "imgHash": "1XW_fr0lElsUpUvDCN4gv6Val0kjKfkuP"
+    },
+
+    {
+        "name": "Royal Ma-noi",
+        "company": "Nepomucen",
+        "style": "imperial pastry sour",
+        "imgHash": "1jvS-3WvGXieeIUhkM-_e3Cs_6P-IJZjP"
+    },
+
+    {
+        "name": "HBC 586",
+        "company": "Funky fluid",
+        "style": "triple neipa",
+        "imgHash": "10djOIvfwzhMJVcO5OjSZBumwTQLt-HSe"
+    },
+
+    {
+        "name": "Gin & Tonic",
+        "company": "Funky fluid",
+        "style": "cocktail sour ale",
+        "imgHash": "16wFUt5itYSZ5yvjtpLEdFvUo27qvER1V"
+    },
+
+    {
+        "name": "Mimosa",
+        "company": "Funky fluid",
+        "style": "cocktail sour ale",
+        "imgHash": "1GwQYGZoOldw7bLlp1Uz8QFgztcCQsrEZ"
+    },
+
+    {
+        "name": "Jack Mangow",
+        "company": "Moczybroda",
+        "style": "mango imperial ipa",
+        "imgHash": "11jx3EVSxObvkddf7D8npA2NKEyOOzvWE"
+    },
+
+    {
+        "name": "Hazy Haka",
+        "company": "Inne beczki",
+        "style": "new zealand hazy ipa",
+        "imgHash": "1inBovfLrds2XFHYVTmtRbzW6IzQIPmz3"
+    },
+
+    {
+        "name": "The Coffee Thing",
+        "company": "Nepomucen",
+        "style": "coffee oat cream imperial ipa",
+        "imgHash": "1Ox0P7LG-k6M1OXJrk0yWERB41OGIqVDV"
+    },
+
+    {
+        "name": "Bougie",
+        "company": "Funky fluid",
+        "style": "double neipa",
+        "imgHash": "129NNf0-n3GLU5UZ63GnRbxqkYXmIjNYP"
+    },
+
+    {
+        "name": "Heaven",
+        "company": "Northern Monk",
+        "style": "chocolate vanilla & maple imperial stout",
+        "imgHash": "1skvAlywtEv-xXiLpBKEhXJNGGXNIihcr"
+    },
+
+    {
+        "name": "Fairytail of brew York",
+        "company": "Brew York",
+        "style": "gingerbread milk stout",
+        "imgHash": "1OZsfqwQFprIlZSTu4u-p5LHonFEnKWHx"
+    },
+
+    {
+        "name": "Będę grał w grę Double",
+        "company": "Ziemia obiecana",
+        "style": "dipa",
+        "imgHash": "1Lo45zpVoZdMgS-YqzcWAxudsC4Fmwpl1"
+    },
+
+    {
+        "name": "Pretty",
+        "company": "Magic road",
+        "style": "kiwi & pistachio pastry sour",
+        "imgHash": "1PvtMyfqfPQuOwwEItP6MzGUErZ6MNjmu"
     }
+    
 ]
