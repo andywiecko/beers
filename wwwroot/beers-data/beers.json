@@ -826,7 +826,7 @@
     },
 
     {
-        "name": "Szosa",
+        "name": "Szosa (2)",
         "company": "Nepomucen",
         "style": "ddh dipa",
         "imgHash": "1-DWZyDLzzktzfXp3p-Boz_XPhcSXXKDq"
@@ -2188,6 +2188,138 @@
         "company": "Magic road",
         "style": "kiwi & pistachio pastry sour",
         "imgHash": "1PvtMyfqfPQuOwwEItP6MzGUErZ6MNjmu"
+    },
+
+    {
+        "name": "Ready",
+        "company": "Nepomucen",
+        "style": "banan & mango & cocoa nobs & vanilla imperial pastery sour",
+        "imgHash": "1OPhGCVgBm3FPMo6JEp8M6sHyG7uT1sGY"
+    },
+
+    {
+        "name": "Once",
+        "company": "Nepomucen",
+        "style": "peach & sicilian lemon & marshmallow imperial pastery sour",
+        "imgHash": "1OcuZenQM8SN2nyiEDtKHRYQ2UnqR89w-"
+    },
+
+    {
+        "name": "Pan Rabarbar",
+        "company": "Browar Laskowiak",
+        "style": "rhubarb sour",
+        "imgHash": "1H5U7pHeY8Jw_h1-oSlGT3Oy9kRHG2TYV"
+    },
+
+    {
+        "name": "Pijże (2)",
+        "company": "Nepomucen & Weźże krafta",
+        "style": "ddh apa",
+        "imgHash": "1b-9ED9cNXigQeK8O-CUXDyIU_egEEG5N"
+    },
+
+    {
+        "name": "Just space",
+        "company": "Sady & Just Brew",
+        "style": "freshpresso ale",
+        "imgHash": "1q0SCRQKBNcU92TDzcoYPQKN1H9_0QnBC"
+    },
+
+    {
+        "name": "atak chmielu (2)",
+        "company": "Pinta",
+        "style": "aipa",
+        "imgHash": "1wiVfbCzGuZFSaK79bm3DWuQkcMRoog7W"
+    },
+
+    {
+        "name": "Yellow Splash",
+        "company": "Funky Fluid",
+        "style": "double fruited gose",
+        "imgHash": "1aGoCLv-_cF2lwphrYZBfOtvFRwe8VDOZ"
+    },
+
+    {
+        "name": "The Game #2",
+        "company": "Raduga",
+        "style": "non-alcoholic ipa",
+        "imgHash": "1SOhcCDp2IHSZ_m4P-rDILof1VWsbFS_6"
+    },
+
+    {
+        "name": "Radość życia",
+        "company": "Za miastem",
+        "style": "american weizen",
+        "imgHash": "1q0FvF8OXdxW9JbG6-1PP11wtIIaPYzto"
+    },
+
+    {
+        "name": "Różowa pantera",
+        "company": "Na Jurze",
+        "style": "freestylle aipa",
+        "imgHash": "1L28KMAleMGgIeh-U8XD9nkDv7CIaOM45"
+    },
+
+    {
+        "name": "Highway (2)",
+        "company": "Nepomucen",
+        "style": "ddh hazy ipa",
+        "imgHash": "1W7p1DNoae2PyuQo2K8T-9Q5hpSCI_ZyM"
+    },
+
+    {
+        "name": "holy mountain",
+        "company": "Inne beczki",
+        "style": "neipa ddh",
+        "imgHash": "1-4o1vZiqPbSIMQKZIS3pEdJhnQ2XzWcq"
+    },
+
+    {
+        "name": "Pan IPAni (2)",
+        "company": "Trzech kumpli",
+        "style": "wheat ipa",
+        "imgHash": "1QFhVx3MDlwSodm2nc97qMlH6uPDfEZtT"
+    },
+
+    {
+        "name": "Thai",
+        "company": "Funky Fluid",
+        "style": "witbier",
+        "imgHash": "1fWoTC_qYCZmrXzld_4B-V9VUaKT2O5dQ"
+    },
+
+    {
+        "name": "Free Gelato Berries & Cream",
+        "company": "Funky Fluid",
+        "style": "raspberry, blackcurrant, marshmallow & vanilla",
+        "imgHash": "1Q9mVscqPb0HMknxDrlFKyeRtOnM-xnhU"
+    },
+
+    {
+        "name": "Hero%",
+        "company": "Birbant",
+        "style": "non-alcoholic ipa",
+        "imgHash": "1SkLc2VNGzR-qIULzhIYSdl61Sst0PsLf"
+    },
+
+    {
+        "name": "Earl Grey AIPA (2)",
+        "company": "revolta",
+        "style": "earl grey aipa",
+        "imgHash": "11y8ZLYoGfTCWhFEEhEsWMFZS1BpNCu72"
+    },
+
+    {
+        "name": "Precious",
+        "company": "Nepomucen",
+        "style": "peach & black currant & calamansi imperial pastery sour",
+        "imgHash": "1tglI0gr0mIuakssQr_Ft5DT-x0ajZWqM"
+    },
+
+    {
+        "name": "Hopollo",
+        "company": "Nepomucen & Nook",
+        "style": "non-alcoholic polish ipa",
+        "imgHash": "1UtnhPt7LCdayJByg3VcYvgmaCNap0_G6"
     }
-    
 ]
