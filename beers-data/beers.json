@@ -2321,5 +2321,208 @@
         "company": "Nepomucen & Nook",
         "style": "non-alcoholic polish ipa",
         "imgHash": "1UtnhPt7LCdayJByg3VcYvgmaCNap0_G6"
+    },
+
+    {
+        "name": "Atavistic",
+        "company": "Kingpin",
+        "style": "hazy apa",
+        "imgHash": "1fmkMYVnpEcuZRlE4YGciOD4103nEYX4v"
+    },
+
+    {
+        "name": "Our new IPA needs no introduction",
+        "company": "Trzech kumpli",
+        "style": "citrus session juicy ipa",
+        "imgHash": "14lE-c_cC6fK-Dh9ePWZlmaT7ow1D1_8k"
+    },
+    
+    {
+        "name": "Wonder haze",
+        "company": "Trzech kumpli",
+        "style": "hazy apa",
+        "imgHash": "1O70osC8jefXUueHF_RPqLsnWP5M7BnXS"
+    },
+    
+    {
+        "name": "Frutollo",
+        "company": "Nook",
+        "style": "non-alcoholic sour fruit ale",
+        "imgHash": "1pVKg4IxrjjeYZmyDu5NBgabllrNxchGR"
+    },
+    
+    {
+        "name": "Soup for one",
+        "company": "Magic road",
+        "style": "new england dipa",
+        "imgHash": "1jeFsYvlJIqYKkYSHaSNa7xGv7cqqGTaY"
+    },
+    
+    {
+        "name": "The Book of Hops",
+        "company": "Tank busters",
+        "style": "ddh dual hop neipa",
+        "imgHash": "1iiX_bgaOmKJ0NqYGHKscaEqsfhOQ200a"
+    },
+    
+    {
+        "name": "Savor the flavor",
+        "company": "Tank busters",
+        "style": "hazy ipa",
+        "imgHash": "1xJxylVuyUKVT9yK8k-qqA-Lutxkw-TKa"
+    },
+    
+    {
+        "name": "Jungle fruit",
+        "company": "Moczybroda",
+        "style": "peach & mango sour ale",
+        "imgHash": "1dfAYPMnrXao_KO333De3NS3yiYmUwOFB"
+    },
+    
+    {
+        "name": "Deszcz w Cisnej",
+        "company": "Ursa Maior",
+        "style": "brown ale",
+        "imgHash": "1zwK7YKkZo8MSAQR1y6jjfEsVe1x7V95p"
+    },
+    
+    {
+        "name": "Double Pan IPAni",
+        "company": "Trzech kumpli",
+        "style": "double wheat ipa",
+        "imgHash": "1Hutj-iREiBX6u_giKopDFfnbwU8p_NPt"
+    },
+    
+    {
+        "name": "Tea essence",
+        "company": "Raduga",
+        "style": "ddh tea ipa",
+        "imgHash": "1uCyZl33aoZk6zo8uxCDyz2DXxJdN4eYg"
+    },
+    
+    {
+        "name": "Dzikie zioło",
+        "company": "Ursa Maior",
+        "style": "sour herbal ale",
+        "imgHash": "1zlVFBUxIgW2xKFn1dtCFu2u8Pl30YdMa"
+    },
+    
+    {
+        "name": "Dzika łąka FUNKY",
+        "company": "Ursa Maior",
+        "style": "wheat wild sour ale",
+        "imgHash": "1YOoG6YxUnJtqz9D9I-f0dI_73GohXSZ3"
+    },
+    
+    {
+        "name": "Megaloman",
+        "company": "Ursa Maior",
+        "style": "aipa",
+        "imgHash": "1wRm6gH1UDRgGG9juoKtAaleC3cSL9sCu"
+    },
+    
+    {
+        "name": "Dare to...",
+        "company": "Magic road",
+        "style": "neipa",
+        "imgHash": "1pGPNBoR0AIHMvyEkexBa5EJsZ-fbWZi3"
+    },
+    
+    {
+        "name": "Szmaterlok",
+        "company": "Hajer",
+        "style": "weizen",
+        "imgHash": "1ewON0Rh_xhK5itF99YqVKQXSLfQCI51R"
+    },
+    
+    {
+        "name": "Spell my name",
+        "company": "Tank busters",
+        "style": "nz double neipa",
+        "imgHash": "1BEOmC7VC5HsyIjL1z5pZd9-df6JyOwDO"
+    },
+    
+    {
+        "name": "Orange AIPA Yerba Mate",
+        "company": "revolta",
+        "style": "yerba mate aipa",
+        "imgHash": "1J52TEMUKN7GhzOKcdXeuFhgBVZytnd2_"
+    },
+    
+    {
+        "name": "Earl Grey AIPA Lemon Edition (2)",
+        "company": "revolta",
+        "style": "earl grey aipa",
+        "imgHash": "1zYCbpPLYgPz9ZKPIPd72ZPnSNhDLEjxz"
+    },
+    
+    {
+        "name": "Earl Grey AIPA Lemon Zero",
+        "company": "revolta",
+        "style": "non-alcoholic aipa",
+        "imgHash": "1mzlZ56hRUbjbrvWCc1-OQ9rS2TyZwHIU"
+    },
+    
+    {
+        "name": "Pijże (3)",
+        "company": "Nepomucen & Weźże krafta",
+        "style": "ddh apa",
+        "imgHash": "1YSTu8A_On0b0P66nLFaWCe2Ek8epXgtV"
+    },
+    
+    {
+        "name": "Pelican (2)",
+        "company": "Nepomucen",
+        "style": "fruit weizen",
+        "imgHash": "1JUXgfQjOtXrZ0KlQDD5jlIo3dimYu2KH"
+    },
+    
+    {
+        "name": "Hercklekot",
+        "company": "Hajer",
+        "style": "dipa",
+        "imgHash": "1HOAyz3nlO15zF3xMXeDDJSQfo2j4M4C3"
+    },
+    
+    {
+        "name": "Charlotte (2)",
+        "company": "Nepomucen",
+        "style": "apple pie ale",
+        "imgHash": "1-rvEfxTW9Ra_iYgwK4fI_C7A7xA-ilej"
+    },
+    
+    {
+        "name": "Happy",
+        "company": "Funky fluid",
+        "style": "wheat ipa",
+        "imgHash": "1VdCbm5dDli2Q9ftoae7UrYkUqKC6oXqS"
+    },
+    
+    {
+        "name": "Comely",
+        "company": "Funky fluid",
+        "style": "rye ipa",
+        "imgHash": "19IpLv-MBaXMaLyrv7jWroJQ9sQ1NokUh"
+    },
+    
+    {
+        "name": "California love",
+        "company": "Funky fluid",
+        "style": "west coast ipa",
+        "imgHash": "12ABzSSPMMLnIpJpxvF39RdYZ7eUYhTFR"
+    },
+    
+    {
+        "name": "Reckless",
+        "company": "Kingpin",
+        "style": "west cost ipa",
+        "imgHash": "1fshwkUjKl7GLTVFPsn_IahckhyJsc8v4"
+    },
+    
+    {
+        "name": "Fidelity",
+        "company": "Kingpin",
+        "style": "dipa amarillo citra galaxy",
+        "imgHash": "193k3lO9OSg5Fk2KxvEgWefoJtzBCYX6j"
     }
 ]
