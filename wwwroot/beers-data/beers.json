@@ -1039,7 +1039,8 @@
         "name": "Juicy Papa",
         "company": "Dear Bear",
         "style": "ddh citra & amarillo ipa",
-        "imgHash": "1T6jIeEvEJYLks1dHpYWE7XG7RMaVR9Pk"
+        "imgHash": "1T6jIeEvEJYLks1dHpYWE7XG7RMaVR9Pk",
+        "star": 3
     },
 
     {
@@ -1214,7 +1215,8 @@
         "name": "Pan IPAni",
         "company": "Trzech kumpli",
         "style": "wheat ipa",
-        "imgHash": "1MsrIAJR9EMe3k3HdLfwupmEp-HUJwjY7"
+        "imgHash": "1MsrIAJR9EMe3k3HdLfwupmEp-HUJwjY7",
+        "star": 3
     },
 
     {
@@ -2019,7 +2021,8 @@
         "name": "Maniac",
         "company": "Funky fluid",
         "style": "double neipa",
-        "imgHash": "1ai1xEYXlPE22AmAJx6DscIBSUk1rA6sk"
+        "imgHash": "1ai1xEYXlPE22AmAJx6DscIBSUk1rA6sk",
+        "star": 1
     },
 
     {
@@ -2278,7 +2281,8 @@
         "name": "Pan IPAni (2)",
         "company": "Trzech kumpli",
         "style": "wheat ipa",
-        "imgHash": "1QFhVx3MDlwSodm2nc97qMlH6uPDfEZtT"
+        "imgHash": "1QFhVx3MDlwSodm2nc97qMlH6uPDfEZtT",
+        "star": 3
     },
 
     {

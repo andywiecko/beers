@@ -11,8 +11,6 @@ To build webpage run the following command
 dotnet publish -c Release
 ```
 
-## TODO
-
-- [X] ~~beers counter 🔢~~
-- [ ] star icon at favorite products ⭐
-- [ ] uploading new labels every 2-3 months 🍻
+> **Note**
+>
+> Uploading new labels every 2-3 months! 🍻

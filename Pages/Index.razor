@@ -28,7 +28,13 @@ else
         <MudItem>
         <MudTooltip Text=@b.Name>
             <MudButton OnClick="@(() => OpenDialog(dialogSrc, b))">
-                <MudImage ObjectFit="ObjectFit.ScaleDown" Height="200" Src=@src Width="300" Alt=@alt Elevation="25" Class="rounded-lg"/>
+                <div style="position: relative;">
+                    <MudImage ObjectFit="ObjectFit.ScaleDown" Height="200" Src=@src Width="300" Alt=@alt Elevation="25" Class="rounded-lg" />
+                    @if (b.Star != null)
+                    {
+                        <span style="position: absolute; top: 10px; left: 10px; font-size: 24px;">@b.GetStars()</span>
+                    }
+                </div>
             </MudButton>
         </MudTooltip>
         </MudItem>
@@ -70,6 +76,15 @@ else
         public string? Style { get; set; }
         public string? ImgHash { get; set; }
         public string? Description { get; set; }
+        public int? Star {get; set; }
+
+        public string GetStars() => Star switch
+        {
+            1 => "⭐",
+            2 => "⭐⭐",
+            >=3 => "⭐⭐⭐",
+            _ => throw new NotImplementedException()
+        };  
 
         public override string ToString() => 
             $"{nameof(Name)}:{Name} | " + 
