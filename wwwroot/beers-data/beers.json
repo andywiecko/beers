@@ -2534,7 +2534,8 @@
         "name": "American dream",
         "company": "Funky fluid",
         "style": "ipa",
-        "imgHash": "15bcxvA9cF4OZnvjcB6Nrpn-W95S5Bgk9"
+        "imgHash": "15bcxvA9cF4OZnvjcB6Nrpn-W95S5Bgk9",
+        "star": 1
     },
     
     {
@@ -2625,21 +2626,24 @@
         "name": "Common gull",
         "company": "Nepomucen",
         "style": "citra hbc 630 azacca hazy apa",
-        "imgHash": "1qBOg0wAW5PYOULhuJDO_p5AWLW6cBDcJ"
+        "imgHash": "1qBOg0wAW5PYOULhuJDO_p5AWLW6cBDcJ",
+        "star": 1
     },
     
     {
         "name": "Neiparadise Hopgang",
         "company": "Inne beczki",
         "style": "hazy ipa ddh hbc 472 cryo pop",
-        "imgHash": "1Y1Eq4EKrFu-7PEZ3phjszXAqzndgXoLC"
+        "imgHash": "1Y1Eq4EKrFu-7PEZ3phjszXAqzndgXoLC",
+        "star": 2
     },
     
     {
         "name": "Polish Hazy IPA: Amora Preta & Książęcy EDITION",
         "company": "Recraft",
         "style": "polish hazy ipa",
-        "imgHash": "1BplSBm1FBVwWBUkyfIEzRNFPSIXc7tD6"
+        "imgHash": "1BplSBm1FBVwWBUkyfIEzRNFPSIXc7tD6",
+        "star": 1
     },
     
     {
@@ -2653,14 +2657,16 @@
         "name": "Chmielokrata Nelson Sauvin",
         "company": "Piwne podziemie",
         "style": "hop heavy ipa",
-        "imgHash": "1_8g7ZzgWAtSgI4XmwyA33JVjZyicneuo"
+        "imgHash": "1_8g7ZzgWAtSgI4XmwyA33JVjZyicneuo",
+        "star": 3
     },
     
     {
         "name": "Hop selection: Strata",
         "company": "Pinta",
         "style": "hazy ipa",
-        "imgHash": "1Gjdj-BKKdqfwgxsacNVDdZM1XJLPdczO"
+        "imgHash": "1Gjdj-BKKdqfwgxsacNVDdZM1XJLPdczO",
+        "star": 1
     },
     
     {
