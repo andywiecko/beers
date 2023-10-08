@@ -1039,7 +1039,8 @@
         "name": "Juicy Papa",
         "company": "Dear Bear",
         "style": "ddh citra & amarillo ipa",
-        "imgHash": "1T6jIeEvEJYLks1dHpYWE7XG7RMaVR9Pk"
+        "imgHash": "1T6jIeEvEJYLks1dHpYWE7XG7RMaVR9Pk",
+        "star": 3
     },
 
     {
@@ -1191,7 +1192,7 @@
 
     {
         "name": "Hefeweizen",
-        "company": "Stu mostó",
+        "company": "Stu mostów",
         "style": "hefeweizen",
         "imgHash": "1K-OALqLgn0dmZDsv0zIiPdrOCrNEyJug"
     },
@@ -1214,7 +1215,8 @@
         "name": "Pan IPAni",
         "company": "Trzech kumpli",
         "style": "wheat ipa",
-        "imgHash": "1MsrIAJR9EMe3k3HdLfwupmEp-HUJwjY7"
+        "imgHash": "1MsrIAJR9EMe3k3HdLfwupmEp-HUJwjY7",
+        "star": 3
     },
 
     {
@@ -2019,7 +2021,8 @@
         "name": "Maniac",
         "company": "Funky fluid",
         "style": "double neipa",
-        "imgHash": "1ai1xEYXlPE22AmAJx6DscIBSUk1rA6sk"
+        "imgHash": "1ai1xEYXlPE22AmAJx6DscIBSUk1rA6sk",
+        "star": 1
     },
 
     {
@@ -2278,7 +2281,8 @@
         "name": "Pan IPAni (2)",
         "company": "Trzech kumpli",
         "style": "wheat ipa",
-        "imgHash": "1QFhVx3MDlwSodm2nc97qMlH6uPDfEZtT"
+        "imgHash": "1QFhVx3MDlwSodm2nc97qMlH6uPDfEZtT",
+        "star": 3
     },
 
     {
@@ -2524,5 +2528,151 @@
         "company": "Kingpin",
         "style": "dipa amarillo citra galaxy",
         "imgHash": "193k3lO9OSg5Fk2KxvEgWefoJtzBCYX6j"
+    },
+
+    {
+        "name": "American dream",
+        "company": "Funky fluid",
+        "style": "ipa",
+        "imgHash": "15bcxvA9cF4OZnvjcB6Nrpn-W95S5Bgk9",
+        "star": 1
+    },
+    
+    {
+        "name": "Buddies",
+        "company": "Nepomucen",
+        "style": "mango & passion fruit sour",
+        "imgHash": "1TDWxs8RHFjyDt39e3XIm-5Bgfb9GfHG5"
+    },
+    
+    {
+        "name": "Piątek wieczór",
+        "company": "Za miastem",
+        "style": "hazy apa",
+        "imgHash": "1Ozp8dTk2lPAa-qrh-AfblRgsyjAlSJCd"
+    },
+    
+    {
+        "name": "knight moves",
+        "company": "Stu mostów",
+        "style": "pastry imperial stout churro biscuit",
+        "imgHash": "1sxoQj-urLD5a76FB97PQDJ5Nqc3TJqWl"
+    },
+    
+    {
+        "name": "Psst... It's your Weekend IPA",
+        "company": "Pinta",
+        "style": "hazy ipa",
+        "imgHash": "1X_-BpJPhN34b-XXNgE5kn2MVjh05zQsv"
+    },
+    
+    {
+        "name": "Gelato",
+        "company": "Funky fluid",
+        "style": "nactarine mango & calamansi ice cream sour",
+        "imgHash": "1iloxezWl8FKoPfKdb1wj7vAQyJp87B8e"
+    },
+    
+    {
+        "name": "Mangolo",
+        "company": "Birbant",
+        "style": "mango weizen",
+        "imgHash": "1kSDMhyHYwPOdwy1r7RXIz_vl-cP4xCK3"
+    },
+    
+    {
+        "name": "Drop it like it's hot",
+        "company": "Funky fluid",
+        "style": "west coast ipa",
+        "imgHash": "1JzECjFxdkIwQyVx9W9grX13cpWR4Gsy7"
+    },
+    
+    {
+        "name": "N.Y. state of mind",
+        "company": "Funky fluid",
+        "style": "east coast ipa",
+        "imgHash": "1WPLDr35_9Gqs18-PjR92iwM9_-b6TLVc"
+    },
+    
+    {
+        "name": "Coffee Milk Stout",
+        "company": "revolta",
+        "style": "coffee milk stout",
+        "imgHash": "17myc1NFDU_7BEYc62HuLbPz3agW3d4Bt"
+    },
+    
+    {
+        "name": "Gose saute",
+        "company": "Trzech kumpli",
+        "style": "gose saute",
+        "imgHash": "1-yvzuYSbPYLfqE5BVwF14IzFzwEQgBoa"
+    },
+    
+    {
+        "name": "Facing the Storm",
+        "company": "Strange companion",
+        "style": "jamaica rum barrel aged old ale",
+        "imgHash": "1EGhemldDE4-drJ8Dm--l86g1Gfd9Ytgn"
+    },
+    
+    {
+        "name": "East of Eden",
+        "company": "Raduga",
+        "style": "peach teapa",
+        "imgHash": "1kcp0gQgLD-dJZ9-cP1nY4zM5T-pO-Lfc"
+    },
+    
+    {
+        "name": "Common gull",
+        "company": "Nepomucen",
+        "style": "citra hbc 630 azacca hazy apa",
+        "imgHash": "1qBOg0wAW5PYOULhuJDO_p5AWLW6cBDcJ",
+        "star": 1
+    },
+    
+    {
+        "name": "Neiparadise Hopgang",
+        "company": "Inne beczki",
+        "style": "hazy ipa ddh hbc 472 cryo pop",
+        "imgHash": "1Y1Eq4EKrFu-7PEZ3phjszXAqzndgXoLC",
+        "star": 2
+    },
+    
+    {
+        "name": "Polish Hazy IPA: Amora Preta & Książęcy EDITION",
+        "company": "Recraft",
+        "style": "polish hazy ipa",
+        "imgHash": "1BplSBm1FBVwWBUkyfIEzRNFPSIXc7tD6",
+        "star": 1
+    },
+    
+    {
+        "name": "More hops & more forest",
+        "company": "Nepomucen",
+        "style": "hbc 630 citra azacca forest west coast ipa",
+        "imgHash": "1nLLSTyBXHJuYj_f9_y5lG28PTft_neZ7"
+    },
+    
+    {
+        "name": "Chmielokrata Nelson Sauvin",
+        "company": "Piwne podziemie",
+        "style": "hop heavy ipa",
+        "imgHash": "1_8g7ZzgWAtSgI4XmwyA33JVjZyicneuo",
+        "star": 3
+    },
+    
+    {
+        "name": "Hop selection: Strata",
+        "company": "Pinta",
+        "style": "hazy ipa",
+        "imgHash": "1Gjdj-BKKdqfwgxsacNVDdZM1XJLPdczO",
+        "star": 1
+    },
+    
+    {
+        "name": "Hop selection: Cascade",
+        "company": "Pinta",
+        "style": "west coast ipa",
+        "imgHash": "1aTIGSko_eSBkvXt5sDf0VrDqKsOk4VPR"
     }
 ]
