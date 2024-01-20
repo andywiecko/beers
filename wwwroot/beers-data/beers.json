@@ -2674,5 +2674,216 @@
         "company": "Pinta",
         "style": "west coast ipa",
         "imgHash": "1aTIGSko_eSBkvXt5sDf0VrDqKsOk4VPR"
+    },
+
+    {
+        "name": "Imperium Prunum z suską sechlońską",
+        "company": "Browar Kormoran",
+        "style": "imperial baltic porter",
+        "imgHash": "1dYOGV1M5CPG6-SAPdLBDocEKeGH8cyed",
+        "star": 3
+    },
+    
+    {
+        "name": "Tichauer Weizen",
+        "company": "Browar Obywatelski",
+        "style": "weisen",
+        "imgHash": "1sAU3EyqLg8Yf-K1g0lcpE2f5fOB9cyPE"
+    },
+    
+    {
+        "name": "IPA to GO",
+        "company": "Pinta",
+        "style": "strata talus hazy ipa",
+        "imgHash": "1Cq9yFj7Qd1Ay4M0uGLr0rnQdh3x2So10"
+    },
+    
+    {
+        "name": "Chocolate Stout Nitro",
+        "company": "Stu mostów",
+        "style": "chocolate stout",
+        "imgHash": "1oHli7Cc67xTXIv_kkE-WSPrJvx8ecyXg"
+    },
+    
+    {
+        "name": "Wild Wild East",
+        "company": "Dziki Wschód",
+        "style": "cranberry wild ale",
+        "imgHash": "19L18Znkj6LcLW0eSC_-EA1fpsqoN40Ek"
+    },
+    
+    {
+        "name": "Poproszę o dolewkę",
+        "company": "Łańcut",
+        "style": "neipa",
+        "imgHash": "1c-fLNhElv6SgXG74drzndobGUQS90lcn",
+        "star": 2
+    },
+    
+    {
+        "name": "RafałELO",
+        "company": "magic road",
+        "style": "pastry sour",
+        "imgHash": "1pJ4zQMdRvU_Yt3nttKlBG5l0d_XKMlJu"
+    },
+    
+    {
+        "name": "Hoppy Weizen",
+        "company": "Trzech kumpli",
+        "style": "weizen",
+        "imgHash": "1BCg_o2wpbNDJMLRfD_F7O-eo8Fu2g_4v"
+    },
+    
+    {
+        "name": "Pale ale",
+        "company": "Stu mostów",
+        "style": "pale ale",
+        "imgHash": "1teI5fGWg7jVRDPU4uEEBKogCtxOfb0W-"
+    },
+    
+    {
+        "name": "Hypnotize",
+        "company": "Funky fluid",
+        "style": "west coast ipa",
+        "imgHash": "1rDtn5RLVvxIJ5q9Z2CeDvW5J9SFlFGPM"
+    },
+    
+    {
+        "name": "Crazy lines #29 Decent",
+        "company": "Nepomucen",
+        "style": "vista & strata & citra neipa",
+        "imgHash": "1ZZHFp6_4VivOzj1MVw-6yrEmfYaGw8jJ"
+    },
+    
+    {
+        "name": "Crazy lines #35 Phantasm lines",
+        "company": "Nepomucen",
+        "style": "phantasm neipa",
+        "imgHash": "1Iun8Oo_X9zpPcNyhTdoYsVO53rsrRwO2",
+        "star": 1
+    },
+    
+    {
+        "name": "21°",
+        "company": "Funky fluid",
+        "style": "triple neipa",
+        "imgHash": "1_vObJTnWPbTWowTcogA1nBmTkOFhz46M",
+        "star": 1
+    },
+    
+    {
+        "name": "Limbø",
+        "company": "Birbant",
+        "style": "limbo talus & mosaic juicy double ipa",
+        "imgHash": "1_UFfIs9Bvv6I57HwMPgMXCU70UwoOykO"
+    },
+    
+    {
+        "name": "Everglow",
+        "company": "magic road",
+        "style": "neipa",
+        "imgHash": "1FykpMclOFsM3DMASVVYPxHZK7gi_9KA2"
+    },
+    
+    {
+        "name": "Brew note",
+        "company": "Trzech kumpli",
+        "style": "american stout",
+        "imgHash": "1LLVPZ5yMflgvapD1OEj4MjHg_H-znbXE"
+    },
+    
+    {
+        "name": "Double Pan IPAni (2)",
+        "company": "Trzech kumpli",
+        "style": "double wheat ipa",
+        "imgHash": "1SwO0z4QmAPJw_16sv0Bl-rKlKlMUVboG"
+    },
+    
+    {
+        "name": "American classic #2",
+        "company": "Piwne podziemie",
+        "style": "aipa",
+        "imgHash": "1-8tumlOYWpZVTABj_7YkAtFZTVo_LDOs"
+    },
+    
+    {
+        "name": "Dr.Hazy #2",
+        "company": "Piwne podziemie",
+        "style": "neipa",
+        "imgHash": "1GfvBo_LjxNdQrj4-kzFS6_j8mJJIQdrW"
+    },
+    
+    {
+        "name": "Triple citrusy",
+        "company": "Funky fluid",
+        "style": "calamansi triple neipa",
+        "imgHash": "1AQwckHf4hOxLh5GuhLAbrCG_k-HM6gzq"
+    },
+    
+    {
+        "name": "Now and ever",
+        "company": "magic road",
+        "style": "hazy ipa",
+        "imgHash": "14d40H3a7-DRh8t9UZh44MZekdYqrtn2z",
+        "star": 2
+    },
+    
+    {
+        "name": "Sweet dreams",
+        "company": "Browar Monsters",
+        "style": "turbo milk stout",
+        "imgHash": "1LtPPDogHVxQG1lge1etPRTbtDQ0Ka7E2",
+        "star": 1
+    },
+    
+    {
+        "name": "Pałacowy jasny lager",
+        "company": "Browar Pałacowy Siemianowice Śląskie",
+        "style": "lager",
+        "imgHash": "1CKrSCLwG_-sVzIIks75o6sbzwh12blIP"
+    },
+    
+    {
+        "name": "Wheeler",
+        "company": "Trzech kumpli",
+        "style": "irish dry stout",
+        "imgHash": "166h23-Egz2ut80oLu9O9coEkCCkIvHhP"
+    },
+    
+    {
+        "name": "Full Mosaic",
+        "company": "Trzech kumpli",
+        "style": "mosaic single hop hazy ipa",
+        "imgHash": "1HzFJcJ_GXZ8mkyYP_sqzoLfJZ7JrvD9B"
+    },
+    
+    {
+        "name": "The Game #3",
+        "company": "Raduga",
+        "style": "non-alcoholic ipa",
+        "imgHash": "1l6a_ep2YQxIbxaYF0c8iXPP-BDGPuyeu"
+    },
+    
+    {
+        "name": "Unplugged",
+        "company": "Trzech kumpli",
+        "style": "non-alcoholic citrus apa",
+        "imgHash": "1olseIrE9VJqyLstSN5h4r2d7WFH6d3C6"
+    },
+    
+    {
+        "name": "American IPA",
+        "company": "Stu mostów",
+        "style": "aipa",
+        "imgHash": "1EdedQ5sWw5nYBbQx0q3SlVxggZeKy6tZ",
+        "star": 2
+    },
+    
+    {
+        "name": "DDH Pale Ale (ART+67)",
+        "company": "Stu mostów & Cloudwater",
+        "style": "mosaic spectrum eclipse bru-1 ddh pale ale",
+        "imgHash": "1nCjnkUgLcl0km1p5OZYmTH-Y5G1Jxm8L",
+        "star": 3
     }
 ]
